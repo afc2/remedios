@@ -1,0 +1,25 @@
+import os
+import codecs
+import html2text
+
+TEXT = '../text/'
+HTML_NH = '../html/sem heuristicas/'
+
+def convert(path):
+	counter = 0
+	for root, dir_names, file_names in os.walk(path):
+		total = len(file_names)
+		for file_name in file_names:
+			counter += 1
+			print ('Convertendo arquivo #' + str(counter) + ' de ' + str(total) + '...')
+			html = codecs.open(path + file_name, encoding = 'utf-8')
+			html = html.read()
+			# atençao com w+
+			text = codecs.open(TEXT + file_name + '.txt', mode='w+', encoding ='utf-8')
+			text.write(html2text.html2text(html))
+			text.close()
+
+if not os.path.exists(TEXT):
+	os.makedirs(TEXT)
+
+convert(HTML_NH)
