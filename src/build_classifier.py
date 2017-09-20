@@ -1,5 +1,4 @@
 import os
-import codecs
 import numpy
 
 from pandas import DataFrame
@@ -9,32 +8,23 @@ from sklearn.pipeline import Pipeline
 from sklearn.cross_validation import KFold
 from sklearn.metrics import confusion_matrix, f1_score
 
-NEWLINE = '\n'
-
 # classes
 DRUG = 'drug'
 OTHER = 'other'
+
+VOCABULARY = ['adicionar', 'informaçoes', 'informações', 
+              'detalhes', 'descriçao', 'descrição',  
+		      'contraindicaçoes', 'contraindicações']
 
 # classificar arquivos manualmente em 1 pasta de 
 # pagina de medicamento e 1 pasta de nao-medicamento
 
 # pastas com os arquivos separados manualmente
-DIRS = [('../text/drug/', DRUG), ('../text/other/', OTHER)]
+DIRS = [('text/drugs', DRUG), ('text/other', OTHER)]
 
-# leitura de arquivos de uma pasta (TODO: limpar sintaxe markdown)
+#TODO: leitura de arquivos de uma pasta
 def read_files(path):
-	for root, dir_names, file_names in os.walk(path):
-		for file_name in file_names:
-			file_path = os.path.join(root, file_name)
-			if os.path.isfile(file_path):
-				lines = []
-				f = codecs.open(file_path, encoding='utf-8')
-				for line in f:
-					#print(line)
-					lines.append(line)
-				f.close()
-				content = NEWLINE.join(lines)
-				yield file_path, content
+	pass
 
 # gerando dataframe para uma pasta
 def generate_dataframe(path, label):
@@ -55,10 +45,10 @@ for path, label in DIRS:
 data = data.reindex(numpy.random.permutation(data.index))
 
 # extraindo features e classificando com naive bayes
-pipeline = Pipeline([ ('vectorizer', CountVectorizer()) , ('classifier', MultinomialNB()) ])
+pipeline = Pipeline([ ('vectorizer', CountVectorizer(vocabulary=VOCABULARY)) , ('classifier', MultinomialNB()) ])
 pipeline.fit(data['text'].values, data['class'].values)
 
-# validacao
+# validacao (AINDA NAO TESTADO)
 k_fold = KFold(n=len(data), n_folds=8)
 scores = []
 confusion = numpy.array([[0, 0], [0, 0]])
@@ -76,16 +66,10 @@ for train_indexes, test_indexes in k_fold:
     score = f1_score(test_y, predictions, pos_label=DRUG)
     scores.append(score)
 
-print('Documentos classificados: '+ str(len(data)))
-print('Score: ' + str(sum(scores)/len(scores)))
-print('Confusion matrix:')
-print(confusion)
-
 #TODO: salvar o classificador
 
-# melhorias = eliminar sintaxe markdown;
-#             validacao;
-#             feature selection;
+# melhorias = feature selection;
 #             usar outros classif;
 #             eliminar stopwords em pt-BR;
 #             ajustar parametros dos classif...
+
