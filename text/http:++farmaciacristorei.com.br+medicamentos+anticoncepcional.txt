@@ -1,0 +1,633 @@
+
+
+JavaScript seems to be disabled in your browser.  
+Você precisa habilitar o Javascript no seu navegador para aproveitar as
+funcionalidades do site.
+
+Início
+
+   Minha Conta
+   Meus Favoritos
+   Carrinho
+   Fechar Pedido
+   Entrar
+
+   Product Sitemap
+   Category Sitemap
+   Busca Avançada
+   Pedidos e Devoluções
+
+
+
+
+
+   Minha Conta
+   Meus Favoritos
+   Carrinho
+   Fechar Pedido
+   Entrar
+
+Seja Bem Vindo
+
++35 anos de tradição
+
+Enviamos para todo o Brasil
+
+ 11 2744-2040
+
+ 11 99642-5721
+
+Farmacia Cristo Rei
+
+0
+
+Nenhum produto no carrinho.
+
+0
+
+Buscar: Procurar
+
+Categorias
+
+   Medicamentos
+     Anticoncepcional
+     Azia e Má Digestão
+     Dor e Febre
+     Gripe e resfriado
+     Genéricos
+     Cristália 
+     Ache 
+     TheraSkin
+     Galderma
+     Alcon 
+     Allergan
+     Libbs 
+     Takeda 
+     Aspen 
+     Medicamento Similares 
+     Medley 
+     AstraZeneca
+     Supera
+   Saúde
+     Calvície
+     Colágeno 
+     Vitaminas e Suplementos
+     Saúde da Mulher
+     Saúde óssea
+     Saúde do Homem
+     Disfunção Erétil
+     Hipertensão 
+     Inflamação
+     Colesterol e Triglicerídeos
+     Alergia
+     Alimentos e Bebidas
+     Dentadura
+     Fitoterápicos
+     Homeopáticos
+     Leites e Fórmulas Especiais
+     Mamãe e Bebê
+     Meias de Compressão
+     Preservativos e Lubrificantes
+     Suplementos e Vitaminas
+   Dermocosméticos
+     Mantecorp
+     Cicatricure
+     La Roche Posay
+     Skinceuticals
+     Imecap
+     Neutrogena
+     Vichy 
+     Isdin
+     Roc
+     Eau Thermale Avène
+     Libbs
+     Profuse 
+     Germed-Derms
+     Biolab
+     TheraSkin
+     Galderma
+     Sebamed 
+     L'oreal Paris 
+   Perfumaria
+     Acessórios
+     Acessórios Infantis
+     Banho
+     Barba
+     Depilação
+     Fraldas infantis
+     Gestantes
+     Higiene Bucal
+     Higiene Íntima
+     Maquiagem e Beleza
+     Mamãe e Bebê
+     Perfumes
+       Femininos 
+       Masculino
+     Tinturas
+     Hidratantes
+     Pele/Cicatriz 
+     Antitranspirante e Desodorante 
+     Cabelo 
+     Repelentes
+     Proteção Solar 
+     Shampoo e Condicionador
+     Tonalizante 
+     Talcos 
+   Ortopédicos
+     Bolsas e Cintas
+     Coluna
+     Joelho
+     Ombro, Braço e Cotovelo
+     Pés
+     Punhos Mãos e Dedos
+     Quadril e Coxa
+     Tornozelos
+     Hidrolight 
+     Pernas 
+   Aparelhos
+     Aparelho de Glicemia
+     Aparelho de Pressão
+     Balança
+     Barbeadores
+     Chapinhas e Modeladores 
+     Inalador
+     Umidificador de Ar
+     Termômetro
+     Teste de Gravidez 
+     Secador de Cabelo
+     Acessórios para Inaladores 
+     Para Homens 
+     Para Mulheres 
+     Taiff 
+     Mãos e Pés 
+     Massageador e Esfoliador
+     Accu Check
+     G-Tech
+     Lancetas e Lancetadores
+     Tiras para Teste
+     Acessórios
+     Aparelhos de Glicemia
+   Super Ofertas
+     Promoções Especiais
+
+   Medicamentos
+
+       Anticoncepcional
+
+       Azia e Má Digestão
+
+       Dor e Febre
+
+       Gripe e resfriado
+
+       Genéricos
+
+       Cristália 
+
+       Ache 
+
+       TheraSkin
+
+       Galderma
+
+       Alcon 
+
+       Allergan
+
+       Libbs 
+
+       Takeda 
+
+       Aspen 
+
+       Medicamento Similares 
+
+       Medley 
+
+       AstraZeneca
+
+       Supera
+
+   Saúde
+
+       Calvície
+
+       Colágeno 
+
+       Vitaminas e Suplementos
+
+       Saúde da Mulher
+
+       Saúde óssea
+
+       Saúde do Homem
+
+       Disfunção Erétil
+
+       Hipertensão 
+
+       Inflamação
+
+       Colesterol e Triglicerídeos
+
+       Alergia
+
+       Alimentos e Bebidas
+
+       Dentadura
+
+       Fitoterápicos
+
+       Homeopáticos
+
+       Leites e Fórmulas Especiais
+
+       Mamãe e Bebê
+
+       Meias de Compressão
+
+       Preservativos e Lubrificantes
+
+       Suplementos e Vitaminas
+
+   Dermocosméticos
+
+       Mantecorp
+
+       Cicatricure
+
+       La Roche Posay
+
+       Skinceuticals
+
+       Imecap
+
+       Neutrogena
+
+       Vichy 
+
+       Isdin
+
+       Roc
+
+       Eau Thermale Avène
+
+       Libbs
+
+       Profuse 
+
+       Germed-Derms
+
+       Biolab
+
+       TheraSkin
+
+       Galderma
+
+       Sebamed 
+
+       L'oreal Paris 
+
+   Perfumaria
+
+       Acessórios
+
+       Acessórios Infantis
+
+       Banho
+
+       Barba
+
+       Depilação
+
+       Fraldas infantis
+
+       Gestantes
+
+       Higiene Bucal
+
+       Higiene Íntima
+
+       Maquiagem e Beleza
+
+       Mamãe e Bebê
+
+       Perfumes
+
+           Femininos 
+
+           Masculino
+
+       Tinturas
+
+       Hidratantes
+
+       Pele/Cicatriz 
+
+       Antitranspirante e Desodorante 
+
+       Cabelo 
+
+       Repelentes
+
+       Proteção Solar 
+
+       Shampoo e Condicionador
+
+       Tonalizante 
+
+       Talcos 
+
+   Ortopédicos
+
+       Bolsas e Cintas
+
+       Coluna
+
+       Joelho
+
+       Ombro, Braço e Cotovelo
+
+       Pés
+
+       Punhos Mãos e Dedos
+
+       Quadril e Coxa
+
+       Tornozelos
+
+       Hidrolight 
+
+       Pernas 
+
+   Aparelhos
+
+       Aparelho de Glicemia
+
+       Aparelho de Pressão
+
+       Balança
+
+       Barbeadores
+
+       Chapinhas e Modeladores 
+
+       Inalador
+
+       Umidificador de Ar
+
+       Termômetro
+
+       Teste de Gravidez 
+
+       Secador de Cabelo
+
+       Acessórios para Inaladores 
+
+       Para Homens 
+
+       Para Mulheres 
+
+       Taiff 
+
+       Mãos e Pés 
+
+       Massageador e Esfoliador
+
+       Accu Check
+
+       G-Tech
+
+       Lancetas e Lancetadores
+
+       Tiras para Teste
+
+       Acessórios
+
+       Aparelhos de Glicemia
+
+   Super Ofertas
+
+       Promoções Especiais
+
+   
+
+   Início >
+   Medicamentos >
+   Anticoncepcional
+
+ Anticoncepcional
+
+Itens 1 para 12 de 94 total
+
+Exibir 12  24  36
+
+Página:
+
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+  5. 5
+  6. 
+
+Visualizar como: Tabela  Lista
+
+Ordem Relevância  Nome  Preço  Google Shopping
+
+   R$19,04
+
+  Repopil 35 etinilestradiol 0,035mg+acetato de cip...
+
+REPOPIL® e utilizado no tratamento de doenças relacionadas aos horm...
+
+Comprar
+
+   R$18,93
+
+  Tantin gestodeno 0,060mg+etinilestradiol 0,015mg...
+
+Tantin gestodeno + etinilestradiol e indicado na prevençao da ...
+
+Comprar
+
+   R$33,70
+
+  Suprema acetato de noretisterona 1,0mg+estradiol ...
+
+Suprema e um medicamento destinado a terapia de reposiçao...
+
+Comprar
+
+   R$25,97
+
+  Depomês acetato de medroxiprogesterona 25mg/ml+ci...
+
+Depomes® e indicado como anticoncepcional.
+
+Comprar
+
+   R$102,50
+
+  Alurax dienogeste 2mg 30 Comprimidos
+
+Alurax  e um hormonio que age diminuindo a produçao e...
+
+Comprar
+
+   R$26,99
+
+  Yang 30 21 Comprimidos
+
+O medicamento Yang 30 drospirenona + etinilestradiol e utilizado para
+preven...
+
+Consulte-nos
+
+   R$34,95
+
+  VIncy com 24 comprimidos VENCIMENTO 02/2017
+
+Contraceptivo oral, com efeitos antimineralocorticoide e antiandrogenico que
+be...
+
+Consulte-nos
+
+   R$26,99
+
+  Femina desogestrel 150mg+etinilestradiol 20mg 21...
+
+Femina e um anticoncepcional oral combinado que contem, como s...
+
+Comprar
+
+   R$57,89
+
+  Femina desogestrel 150mg+etinilestradiol 20mg 63...
+
+Femina e um anticoncepcional oral combinado que contem, como s...
+
+Comprar
+
+   R$24,64
+
+  Allestra 20 gestodeno 75mg+etinilestradiol 20mg ...
+
+Allestra 20 e indicado para contracepçao oral.
+
+Comprar
+
+   R$10,25
+
+  Norestin norestisterona 0,35mg 35 Comprimidos
+
+Este produto assim como todos os contraceptivos orais e usado para prevenir
+...
+
+Comprar
+
+   R$55,96
+
+  Level levonorgestrel 0.10mg+etinilestradiol 0,02m...
+
+O seu medico lhe receitou Level ® que e um contraceptivo oral, tamb...
+
+Comprar
+
+Itens 1 para 12 de 94 total
+
+Exibir 12  24  36
+
+Página:
+
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+  5. 5
+  6. 
+
+Visualizar como: Tabela  Lista
+
+Ordem Relevância  Nome  Preço  Google Shopping
+
+x
+
+
+
+Preço:
+
+Preço Atual:
+
+Comprar
+
+Our price is lower than the manufacturer's "minimum advertised price." As a
+result, we cannot show you the price in catalog or the product page.  
+  
+You have no obligation to purchase the product once you know the price. You
+can simply remove the item from your cart.
+
+Our price is lower than the manufacturer's "minimum advertised price." As a
+result, we cannot show you the price in catalog or the product page.  
+  
+You have no obligation to purchase the product once you know the price. You
+can simply remove the item from your cart.
+
+Carrinho
+
+Nenhum produto no carrinho.
+
+Newsletter
+
+Assine Nossa Newsletter:
+
+Go
+
+ Redes Sociais
+
+      
+
+Top
+
+ Informações
+
+   Mapa do Site
+   Termos de Pesquisa
+   Busca Avançada
+   Pedidos e Devoluções
+   Fale Conosco
+
+ Dicas
+
+   Trocas &amp; Devoluçao
+   Politica de Entrega
+   Quem Somos
+   Formas de Pagamento
+
+ Minha Conta
+
+   Login
+   Carrinho
+   Meus Favoritos
+   Rastrear meu pedidor
+   Ajuda
+
+ Contato
+
+DROGARIA E PERFUMARIA CRISTO REI | CNPJ 43.840.040/0001-54 | I.E.
+110.318.078.113 | RUA PALMEIRA LACA, 183 JARDIM ELIANE SÃO PAULO/SP | CEP
+03577-090 | Horario de Atendimento: De Segunda a Sabado das 8 as 20h e aos
+Domingos horario das 8 as 14h | Central de Atendimento ao Cliente: 2744-2040 |
+Farmaceutico responsavel: Eraldo Galvao CRF-SP 22.889. Autorizaçao de
+Funcionamento: 25351.209127/2002-11 - Autorizaçao/MS: 0.20419.4 - CMVS:
+355030801477-001234-1-2
+
+ Selos de Segurança
+
+ Parcelamos em 3x sem juros  
+
+
+
+C Farmácia Cristo Rei. Todos os direitos reservados. Criado por  Alemão
+Agência Digital
+
