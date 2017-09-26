@@ -1,10 +1,12 @@
+# -*- coding: utf-8 -*-
 import robotparser
 import requests
 from bs4 import BeautifulSoup
 from collections import deque
+import time
 
-#max_urls should be 1000
-max_urls = 120
+#max_urls should be 1000?
+max_urls = 1000
 
 #receives a robots page and a url and verifies if we're
 #allowed to fetch this url's content
@@ -51,13 +53,13 @@ def generic_bfs(root):
                 urls.write(cur+"\n")
                 urls.close()
             except:
-                print ("error creating file")
+                print "error creating file"
 
             soup = BeautifulSoup(page.content, 'html.parser')
             visited.append(cur)
 
-            print ("visiting: "+cur)
-
+            print "visiting: "+cur
+            time.sleep(0.01)
             links = []
 
             for link in soup.find_all('a', href=True):
@@ -78,17 +80,17 @@ def generic_bfs(root):
 
     return visited
 
- 
-urls = ["https://www.onofre.com.br", 
-        "http://www.ultrafarma.com.br", 
-        "http://www.farmadelivery.com.br", 
+
+urls = ["https://www.onofre.com.br",
+        "http://www.ultrafarma.com.br",
+        "http://www.farmadelivery.com.br",
         "http://www.farma22.com.br",
-        "https://www.farmagora.com.br", 
-        "http://www.drogariasaopaulo.com.br", 
-        "https://www.medicamentosbrasil.com.br", 
-        "https://www.saredrogarias.com.br",
-        "http://loja.paguemenos.com.br", 
-        "http://farmaciacristorei.com.br"]
+        "http://loja.paguemenos.com.br",
+        "https://www.farmagora.com.br",
+        "http://www.drogariasaopaulo.com.br",
+        "https://www.medicamentosbrasil.com.br",
+        "http://farmaciacristorei.com.br",
+        "https://www.saredrogarias.com.br"]
 
 for site in urls:
     generic_bfs(site)

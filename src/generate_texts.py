@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 import os
 import re
 import codecs
 import html2text
 
 TEXT = '../text/'
-HTML_NH = '../html/sem heuristicas/'
+HTML_NH = '../html/semHeuristicas/'
 
 def convert(path):
 	counter = 0
