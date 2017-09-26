@@ -1,0 +1,14 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+                                <head>
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                                <title>Erro</title>
+                                </head>
+
+                                <body style="margin:0; padding:0">
+                                <div id="mensagem" style="text-align:center; font:16px Arial, Helvetica, sans-serif; font-weight: bold; margin-top:15%; line-height: 22px">
+                                    <p style="margin-top:40px"><span style="color: #004A8E;">Ocorreu um erro em nossos servidores.</span><br />
+                                        <span style="color:#312F30">Por favor, retorne em alguns instantes ao nosso e-commerce.</span><br/><span style="color:#312F30; font:12px Arial, Helvetica, sans-serif;">Código do erro: 61fddf3c-8153-4805-8329-d96d75c78c12</span> 
+                                    </p>
+                                </div>
+                                </body>
+                                </html>

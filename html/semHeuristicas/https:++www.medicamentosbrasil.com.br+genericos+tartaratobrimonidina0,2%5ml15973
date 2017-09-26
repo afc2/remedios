@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js" lang="pt_BR"> <!--<![endif]-->
+
+
+
+<meta charset="UTF-8" />
+
+<title>Error Page</title>
+
+<style>
+
+body{
+
+	font-family: Tahoma, sans-serif;
+
+}
+
+.h1{
+
+	font-size: 3.0em;
+
+	color : Red;
+
+}
+
+</style>
+
+<script type="text/javascript">
+//<![CDATA[
+function startTimer(duration, display) {
+
+    var timer = duration, seconds;
+
+    var interval = setInterval(function () {
+
+        seconds = parseInt(timer % 60, 10);
+
+		
+
+		if(seconds > 1){
+
+			display.textContent = seconds + ' segundos...';
+
+		}else{
+
+			display.textContent = seconds + ' segundo...';
+
+		}
+
+		
+
+        if (--timer < 0) {
+
+            /* window.location.replace('http://www.vsmshop.com.br'); */
+            document.location.href="/";
+
+			clearInterval(interval);
+
+        }
+
+    }, 1000);
+
+}
+
+
+
+window.onload = function () {
+
+    var fiveMinutes = 4,
+
+        display = document.querySelector('#time');
+
+    startTimer(fiveMinutes, display);
+
+};
+//]]>
+
+</script>
+
+
+
+<div align="center">
+
+<h1 class="h1">Algo inesperado aconteceu.</h1>
+
+<br />
+
+<br />
+
+<a href="/" style="text-decoration: none;">
+
+<img src="https://www.ostraining.com/cdn/images/coding/error-page.jpg" style="padding-bottom: 15px;" border="0" />
+
+</a>
+
+<br />
+
+<br />
+
+<h2 class="h2">Você será redirecionado para a Página Inicial em <span id="time">5 segundos...</span></h2>
+
+</div>
+
+</html>

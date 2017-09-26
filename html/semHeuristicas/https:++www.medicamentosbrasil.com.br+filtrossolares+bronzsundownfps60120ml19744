@@ -1,0 +1,6374 @@
+<!-- <head th:include="/layout/partials/head (pageTitle='VSMSHOP Automa&ccedil;&atilde;o Comercial, Inform&aacute;tica, N&aacute;utica, Games e Eletr&ocirc;nicos | Bematech, Elgin, Daruma, Toledo, Nitgen | Assis SP')" />
+ -->
+ 
+ <head><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />       
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    
+    
+    <title>Bronz Sundown Fps 60 120ml - Medicamentos Brasil - Assis/SP</title>
+    
+     
+    
+    
+  <meta name="description" content="Bronz Sundown Fps 60 120ml - Medicamentos Brasil - Assis/SP" />
+ 
+    <!-- new tags 1  -->
+	 <meta name="robots" content="index, follow, noodp" />
+	<meta name="robots" content="noydir" /> 
+	<meta name="slurp" content="noydir" />
+	<meta name="language" content="pt-br" />
+	
+	<meta name="content-language" content="pt,en" />
+	<meta http-equiv="Expires" content="max-age=604800" />
+	<meta http-equiv="Cache-Control" content="max-age=604800" />
+	<meta name="classification" content="" />
+	<meta name="distribution" content="Global" />
+	<meta name="rating" content="General" />
+	<meta name="revisit-after" content="14 days" />
+    
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="mobile-web-app-capable" content="yes" />	
+	<link rel="manifest" href="/manifest.json" />
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>	
+
+    
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+
+    
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap-vsm.css" />
+    
+   <link rel="stylesheet" href="/css/style1.22.css" /> 
+   	  <link rel="stylesheet" href="/css/menu.css" />   
+	    
+
+   
+    <script src="/js/jquery.min.js"></script>
+	<script src="/bootstrap/js/bootstrap.min.js"></script>
+		
+ <link rel="shortcut icon" type="image/x-icon" href="https://www.vsmshop.com.br/resources/image/favicon.ico" /> 
+
+
+</head></head>
+ 
+ 
+ 
+ 
+<style>
+
+body{
+background: #fff;
+}
+
+.add-to-cart{
+
+  padding: 0px 15px 15px 15px;
+}
+
+.add-to-cart .btn { 
+	border-radius: 0; 
+	
+}
+
+.btn-comprar{
+	background:#337ab7;
+	color:white;
+}
+
+
+
+.btn-comprar:hover{
+	background:#22527b;
+	color:white;
+}
+
+.btn-comprar:active{
+	background:#337ab7;
+	border: #337ab7;
+	color:white;
+}
+
+.glyphicon-product{
+line-height: 1.42857143;
+}
+
+
+.product-price {
+float:left;
+font-weight:bold;
+padding-right: 10px;
+}
+
+
+.product>img{
+	max-width: 230px;
+}
+
+
+
+/*********************************************
+					VIEW
+*********************************************/
+
+.content-wrapper {
+	max-width: 1140px;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	border: 0px;
+	border-radius: 0px;
+}
+
+
+
+.view-wrapper {
+	float: right;
+	max-width: 70%;
+	margin-top: 25px;
+}
+
+.container {
+	padding-left: 0px;
+	padding-right: 0px;
+	max-width: 100%;
+}
+
+/*********************************************
+				ITEM 
+*********************************************/
+
+.service1-items {
+	padding: 30px 0 0px 0;
+	float: left;
+	position: relative;
+	overflow: hidden;
+	max-width: 100%;
+}
+
+.service1-item {
+	height: 107px;
+	width: 120px;
+	display: block;
+	float: left;
+	position: relative;
+	padding-right: 20px;
+}
+
+.service1-item > img {
+	
+	width: 110px;
+	opacity: 0.6;
+	transition: all .2s ease-in;
+	-o-transition: all .2s ease-in;
+	-moz-transition: all .2s ease-in;
+	-webkit-transition: all .2s ease-in;
+}
+
+.service1-item > img:hover {
+	cursor: pointer;
+	opacity: 1;
+}
+
+.service-image-left {
+	padding-right: 50px;
+}
+
+.service-image-right {
+	padding-left: 50px;
+}
+
+.service-image-left > center > img,.service-image-right > center > img{
+	max-height: 450px;
+}
+
+
+.share_button{
+	margin:5px;
+}
+
+.mensagem-anvisa{
+	padding: 10px;
+    border: 1px solid #666;
+    margin: 20px 0px;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    line-height: normal;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: verdana;
+    color: #666;
+
+}
+
+body.modal-open {
+  overflow: inherit;
+  padding-right: 0 !important;
+}
+
+
+
+.nav-tabs { border-bottom: 2px solid #DDD; }
+    .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border-width: 0; }
+    .nav-tabs > li > a { border: none; color: #666; }
+        .nav-tabs > li.active > a, .nav-tabs > li > a:hover { border: none; color: #365899 !important; background: transparent; }
+        .nav-tabs > li > a::after { content: ""; background: #d90207; height: 2px; position: absolute; width: 100%; left: 0px; bottom: -1px; transition: all 250ms ease 0s; transform: scale(0); }
+    .nav-tabs > li.active > a::after, .nav-tabs > li:hover > a::after { transform: scale(1); }
+.tab-nav > li > a::after { background: #21527d none repeat scroll 0% 0%; color: #fff; }
+.tab-pane { padding: 15px 0; }
+.tab-content{padding:20px}
+
+.card {
+	background: #FFF none repeat scroll 0% 0%;
+	border: 1px solid #e0dcdc;
+    border-radius: 3px;
+    margin-top: 30px;
+    padding: 10px;
+    position: relative;
+ 	margin-bottom: 30px; 
+  	display:inline-block;
+  	width:100%;	
+}
+
+.font-promocao{
+font-size:24px;
+
+}
+
+
+@media screen and (min-width:767px){
+	.div-visible{display:block}
+}
+@media screen and (max-width:766px){
+	.div-visible{display:none}
+}
+
+.div-visible{
+border-top: 1px solid #e5e5e5;
+padding: 10px;
+}
+
+
+</style>
+
+<script>
+
+//<![CDATA[
+           
+         
+           
+
+jQuery(document).ready(function() {
+	
+	if(!mobileAndTabletcheck()){
+		jQuery("#main_image").addimagezoom({
+			zoomrange: [2, 10],
+			magnifiersize: [500,400],
+			magnifierpos: 'right',
+			cursorshade: true,
+			cursorshadecolor: 'white',
+			cursorshadeopacity: 0.3,
+			cursorshadeborder: '2px solid black',
+			largeimage: $("#main_image").attr('src')
+			});
+	}
+	
+	
+	
+	
+
+	var title = unescape($("#name").text());
+	var description = unescape(encodeURIComponent(document.getElementById("descriptionMeta").textContent));
+	var image = document.getElementById("main_image").getAttribute('src');
+	var url = document.getElementById("urlMeta").textContent;
+	
+	jQuery('#share_button_twitter').on('click', function(e)  {
+		 
+		e.preventDefault();
+		var link = "https://twitter.com/intent/tweet?hashtags=VSMSHOP&text="+title+"&tw_p=tweetbutton&url=http://www.vsmshop.com.br"+url+"&via=vsmshop";
+		window.open(link, "", "width=800, height=400");
+			
+	});
+	
+	jQuery('#share_button_google').on('click', function(e)  {
+		 
+		e.preventDefault();
+		var link = "https://plus.google.com/share?url=http://www.vsmshop.com.br"+url;
+		window.open(link, "", "width=800, height=400");
+			
+	});
+	
+	jQuery('#share_button_facebook').on('click', function(e)  {
+		e.preventDefault();
+		var link = "https://www.facebook.com/dialog/feed?app_id=1488350268124762&display=popup&caption=VSM Shop&link=http://www.vsmshop.com.br"+url+"&redirect_uri=http://www.facebook.com/&description="+''+"&picture=http://www.vsmshop.com.br"+image+"&name="+title;
+		window.open(link, "", "width=800, height=400");
+			
+	});
+	
+	
+	jQuery('.tabs .tab-links a').on('click', function(e)  {
+        var currentAttrValue = jQuery(this).attr('href');
+        // Show/Hide Tabs
+        jQuery('.tabs ' + currentAttrValue).show().siblings().hide();
+ 
+        // Change/remove current tab to active
+        jQuery(this).parent('li').addClass('active').siblings().removeClass('active');
+ 
+        e.preventDefault();
+    });
+	
+	
+	if ($(window).width() <= 768) {
+        $("#frete-collapse").removeClass("in");
+        $('#formas-pagamento-collapse').removeClass("in");
+    }
+
+	
+});
+
+
+
+
+//Função para atualizar a imagem com zoom.
+function trocaImagem(as){
+	
+	if(as != null){
+		$("#main_image").attr("src",as);
+	}
+	 
+	if(!mobileAndTabletcheck()){
+	jQuery("#main_image").addimagezoom({
+		zoomrange: [2, 10],
+		magnifiersize: [500,400],
+		magnifierpos: 'right',
+		cursorshade: true,
+		cursorshadecolor: 'white',
+		cursorshadeopacity: 0.3,
+		cursorshadeborder: '2px solid black',
+		largeimage: as
+		});
+	}
+	
+	return false;
+}
+
+
+
+
+function goInfo(){
+	
+	    $('html, body').animate({
+	        scrollTop: $("#productDescription").offset().top - 70
+	    }, 1000);
+	
+}
+
+function goProductRel(){
+	
+    $('html, body').animate({
+        scrollTop: $("#productRel").offset().top - 70
+    }, 1000);
+
+}
+
+function goAvaliacoes(){
+	
+    $('html, body').animate({
+        scrollTop: $("#div_avaliacao").offset().top - 70
+    }, 1000);
+
+}
+
+//]]>
+</script>
+
+<body style="font-family: ">
+ 
+ <div>
+		 <style>
+.container>.navbar-header,
+.container>.navbar-collapse {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+ 
+ 
+      
+.navbar-login{
+background: #f8f8f8;
+    position: absolute;
+    z-index: 999;
+    margin: 5px 0 0 0;
+    padding: 25px;
+    border: 1px solid #ebe8e5;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+}      
+      
+.btn-login{
+    background-color: #304e83;
+    color: white;
+    font-size: 13px;
+    border-radius: 5px 5px 5px 5px;
+   /*  transform: skewX(10deg); */
+    font-weight: bold;
+}
+
+.btn-login:hover{
+color:white;
+background-color: #23385f;
+
+}
+
+.navbar-whatsapp{
+background: #f8f8f8;
+  position: absolute;
+  z-index: 999;
+  margin: 5px 0 0 0;
+  padding: 25px;
+  border: 1px solid #ebe8e5;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  text-align:center;
+
+}
+
+
+.navbar-default .navbar-nav>li>a {
+     color: #304e83; 
+     
+}
+
+
+
+@media(max-width:992px){
+	.searchDiv{
+		display: inline-block;
+		    width: 109%;
+		left: -22px;
+		
+	}
+	
+	.search-input{
+		width:60%;
+		float:left;
+	}
+}
+
+
+
+
+/* @media(min-width:993px){
+	.searchDiv{
+		display: inline-block;
+		max-width: 50%;"	
+	}
+} */
+
+</style>
+
+  <nav class="navbar navbar-default navbar-fixed-top" style="box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.34);padding-right: 0px;">
+        <div id="header-container" class="container-fluid" style="padding-right:0px;">
+            <div class="navbar-header col-md-6">
+            	<div class="col-md-5">
+            			
+            			 <button type="button" id="button-header-mob" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-menu" style="margin-left: -20px;border: none;padding: 5px 6px;float:left;">
+		                    <span class="icon-bar"></span>
+		                    <span class="icon-bar"></span>
+		                    <span class="icon-bar"></span>
+		                </button> 
+		                <a class="navbar-brand hidden-sm hidden-xs" runat="server" style="padding-top:15px;" href="/">
+		                    <img class="img-responsive" src="/cmsstatic/layout/cabecalho.png" />
+		                </a>
+		                <a class="navbar-brand visible-sm visible-xs center-block" runat="server" style="padding: 10px 0px;width:67%;margin-left:10px;" href="/">
+		                    <img class="img-responsive" style="max-height:31px;margin: 0 auto;" src="/cmsstatic/layout/cabecalho.png" />
+		                </a>
+		                <div class="visible-xs visible-sm">
+			                <ul class="nav navbar-nav" style="float:right;padding-right: 5px;">
+			                  
+			                    <li style="float:left;">
+			                    	<a runat="server" style="padding-top: 0px; padding-bottom: 15px;margin-right: -15px;" href="/cart">
+			                    	
+			                    		<img style="max-width:25px;" src="/img/cart.png" />
+			                    		<span class="badge" id="spanQtdeCarrinhoMobile" style="background-color:#3aa8c7;color:#ffffff;">0</span> 
+			                    	</a>
+			                    </li>
+			                </ul>
+			            </div>     
+		         
+		              
+            			
+            	</div>
+            	
+                <div class="col-md-7 searchDiv" style=" border-top: 1px solid #d90207; margin-top: -10px;padding-top: 9px; margin-bottom: -6px;">
+               	 <div class="visible-xs visible-sm" style="float:left;">
+	                <ul class="nav navbar-nav" style="float:left;padding-left:12px;">
+	                	
+	                	
+	                	<li style="float:left;"><a runat="server" style="margin-top: -15px;" href="/home/faleconosco"><img style="max-width:25px;" src="/img/atendimento.png" /></a></li>
+	                </ul>
+	           	 </div> 
+                  <div role="search" class="search-input" style="">  
+	                  <div class="visible-md visible-lg">
+						<div style="height:17px;"></div>
+					  </div>
+                      <div class="input-group" style="margin-left:30px;display:block;"> 
+                          
+                          <form id="searchForm" action="/search">
+                         		 <div class="input-group input-search-button">
+                          		<input class="form-control" autocomplete="off" id="searchinput" type="search" placeholder="O que deseja encontrar?" name="q" />
+                          		
+                          			 <span class="input-group-btn">
+								        <button id="btn-search" class="btn btn-default" type="button"><i class="glyphicon glyphicon-search"></i></button>
+								      </span>
+                         		</div>
+                         		<div id="searchlist" class="list-group" style="box-sizing: border-box;position: absolute;left: auto;">
+					   	 
+	
+					   	 			
+							 	</div>
+                          </form>
+                          
+                          
+                      </div>
+                  </div>
+                  <div class="visible-xs visible-sm" style="float:right;">
+	                <ul class="nav navbar-nav" style="float:right;margin-right:0px;">
+	                	
+	                    <li style="float:left;"><a runat="server" style="margin-top: -15px;padding-right: 15px;" href="/login"><img style="max-width:25px;" src="/img/user.png" /></a></li>
+	                    
+	                </ul>
+	           	 </div> 
+              </div>  
+    
+                         
+            </div>
+            
+             <div class="visible-md visible-lg col-md-6" style="padding-right: 0px;">
+               <ul class="nav navbar-nav pull-right" style="color:#304e83;">   
+               	      
+               	  <!-- Nossos telefones da VSM SHOP -->    
+           		     
+                  
+                  <!--Telefone de contato da farmacia  -->
+                  <li class="drodown-header">
+           		 	<a runat="server" href="#" class="dropdown-toggle" data-toggle="dropdown" style="display:flex;">
+	           		   <div>
+	           		   		<div class="pull-left" style="margin-right:10px;padding-top:10px;">
+	           		   			<img src="/img/icone_tel2.png" />
+	           		   		</div>
+	           		   		<div class="pull-right" style="padding-top: 11px;">
+	           		   			Contato
+	           		   		</div>
+	           		   </div>
+           		    </a>
+                   	<ul class="dropdown-menu navbar-whatsapp">
+                                         
+                    <li><span class=" glyphicon glyphicon-earphone" style="height:32px;padding: 10px;"></span> <span>(18)3422-0457</span></li>
+                    <li class="divider"></li>
+                    <li>
+	                    <a href="mailto: brasil@medicamentosbrasil.com.br ">
+	                    	<span style="color:#304e83;"> brasil@medicamentosbrasil.com.br </span>
+	                    </a>
+                    </li>
+                   	<!-- <li><a  href="javascript:abrir(1);" class="btn btn-login btn-block btn-sm" style="padding-top: 10px;">Outros estados</a></li> -->
+                   
+                   
+		            <!-- <li class="divider"></li>
+		            <li><a href="#">User stats <span class="glyphicon glyphicon-stats pull-right"></span></a></li>
+		            <li class="divider"></li>
+		            <li><a href="#">Messages <span class="badge pull-right"> 42 </span></a></li>
+		            <li class="divider"></li>
+		            <li><a href="#">Favourites Snippets <span class="glyphicon glyphicon-heart pull-right"></span></a></li>
+		            <li class="divider"></li>
+		            <li><a href="#">Sign Out <span class="glyphicon glyphicon-log-out pull-right"></span></a></li> -->
+            	   </ul>                    
+                  </li>
+                   
+                   <li class="drodown-header">
+                   <a runat="server" href="#" class="dropdown-toggle" data-toggle="dropdown" style="display:flex;"> 
+					  <div>
+					  		<div style="float:left;margin-right: 10px;padding-top: 10px;">
+	                   		  <img class="img-responsive" src="/img/icone_login.png" />  
+		                   	</div>
+		                    <div style="float:right;"> 
+		                    	 Olá faça seu login <br /> Minha conta
+		                    </div>
+					  </div>                   
+	                   	
+                   </a>
+                   	<ul class="dropdown-menu navbar-login">
+                       <li>
+                           <div>
+                               <div class="row">
+                                   <div class="col-lg-12">
+                                       <p class="text-left">
+                                           <a class="btn btn-login btn-block btn-sm" href="/login" style="background-color:#3cb878;color:#ffffff;">Faça seu login</a>
+                                       </p>
+                                   </div>
+                               </div>
+                           </div>
+                       </li>
+                       <li class="divider navbar-login-session-bg"></li>
+                        <li><a style="padding: 0px 0px;" href="/register">Cliente novo? Cadastre-se</a></li>
+            	   	 </ul>                    
+               	   </li>   
+               	                   
+                   <li id="cartLink">
+                   		<a runat="server" style="background-color:#3aa8c7;color:#ffffff;" href="/cart">
+                   			<span class="glyphicon glyphicon-shopping-cart"> </span> 
+                   			<span class="headerCartItemsCount" style="font-weight: bold;">0</span> <span style="font-weight: bold;" class="headerCartItemsCountWord">itens</span> <br />
+                   			<strong>no carrinho</strong> </a>
+                   </li>
+               </ul>
+              <div id="cartDetalhes" class="cart-detalhes" style="display:none;">	
+		        	 <table class="table-cart-detalhes">
+        		
+        		
+        		<tr style="color:#000;">
+			       <th colspan="7" valign="bottom"> 
+			       			      
+			       		<h4>Seu carrinho está vazio. </h4>
+			       </th>            	
+		       </tr>
+        		
+        	</table>
+		      </div>
+           </div>   
+        </div> 
+    </nav>
+    
+  
+  		  
+
+
+<div class="container-fluid" style="padding-right: 0px;padding-left: 0px;">
+<nav class="navbar navbar-default" style="margin-bottom:0px;text-align:center;min-height:26px;">
+	
+	<div class="visible-xs visible-sm">
+		<div style="height:23px;">
+		</div>
+	</div>
+	<div class="collapse navbar-collapse navbar-collapse-menu" style="background-color:#3aa8c7;color:#ffffff;font-size:15px;padding-left: 0px;padding-right:0px;">
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 <a class="home" style="text-align: center;" href="/"> 
+					 <div class="visible-md visible-lg">
+					 	<div style="height:28px;"></div>
+					 </div>
+					 
+					<img style="" height="30px" src="/cmsstatic/layout/IconeMenuHome.png" /><br />
+					<span style="color:white">Home</span>
+					<div class="visible-md visible-lg">
+						<div style="height:26px;"></div>
+					</div>
+				</a>
+				
+				
+				
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Home</legend>
+					 						 	
+						
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 
+				
+				
+				<a class="dropdown-toggle a-menu menu-li" data-toggle="dropdown" href="/disfuncaoeretil"> 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					<img height="30px" src="/cmsstatic/layout/IconeMenuUm.png" />
+					 
+					
+					
+					
+					  
+					
+					
+					<br />
+					<span class="span-menu">Disfunção Erétil</span>
+					<!--  <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div>  -->
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Disfunção Erétil</legend>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							<ul>						
+								<a href="/disfuncaoeretil">
+							
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">
+										Ver todos os produtos <span class="glyphicon glyphicon-chevron-right"></span>
+									</li>
+								</a>
+								
+							</ul>
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/cialis"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Cialis</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/citratodesildenafila(outros)"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Citrato de Sildenafila (Outros)</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/citratodesildenafilaeurofarma"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Citrato de Sildenafila EUROFARMA</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/citratodesildenafilamedley"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Citrato de Sildenafila MEDLEY</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/citratodesildenafilasandoz"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Citrato de Sildenafila SANDOZ</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/dali"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Dalí</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/dejavu"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Dejavú</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/helleva"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Helleva</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/levitra"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Levitra</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/tada"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Tada</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/tadalafilabiosintetica"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Tadalafila BIOSINTÉTICA</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/tadalafilaeurofarma"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Tadalafila EUROFARMA</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/tadalafilamedley"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Tadalafila MEDLEY</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/tadalafilasandoz"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Tadalafila SANDOZ</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/viagra"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Viagra</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/disfuncaoeretil/zyad"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Zyad</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 
+				
+				
+				<a class="dropdown-toggle a-menu menu-li" data-toggle="dropdown" href="/medicamentos"> 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					
+					<img height="30px" src="/cmsstatic/layout/IconeMenuDois.png" /> 
+					
+					
+					
+					  
+					
+					
+					<br />
+					<span class="span-menu">Medicamentos</span>
+					<!--  <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div>  -->
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Medicamentos</legend>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							<ul>						
+								<a href="/medicamentos">
+							
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">
+										Ver todos os produtos <span class="glyphicon glyphicon-chevron-right"></span>
+									</li>
+								</a>
+								
+							</ul>
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/anti-inflamatorios,analgesicoserelantesmuscula"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Anti-Inflamatórios, Analgésicos e Relantes Musculares</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/anticoncepcionaisedisturbioshormonais"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Anticoncepcionais e Distúrbios Hormonais</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/antifungicoseantimicoticos"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Antifúngicos e Antimicóticos</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/aparelhodigestivo"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Aparelho Digestivo</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/asmaeantialergicos"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Asma e Antialérgicos</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/colirios"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Colírios</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/gripeseresfriados"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Gripes e Resfriados</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/hipertensao,coracao,diabetesecolesterol"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Hipertensão, Coração, Diabetes e Colesterol</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/hipo/hipertireoidismo"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Hipo/Hipertireoidismo</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/outros"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Outros</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/medicamentos/prostata"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Próstata</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 
+				
+				
+				<a class="dropdown-toggle a-menu menu-li" data-toggle="dropdown" href="/genericos"> 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					
+					 
+					<img height="30px" src="/cmsstatic/layout/IconeMenuTres.png" />
+					
+					
+					  
+					
+					
+					<br />
+					<span class="span-menu">Genéricos</span>
+					<!--  <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div>  -->
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Genéricos</legend>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							<ul>						
+								<a href="/genericos">
+							
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">
+										Ver todos os produtos <span class="glyphicon glyphicon-chevron-right"></span>
+									</li>
+								</a>
+								
+							</ul>
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/anti-inflamatorios,analgesicoserelaxantesmuscular"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Anti-Inflamatórios, Analgésicos e Relaxantes Musculares</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/antialergicos,gripeseresfriados"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Antialérgicos, Gripes e Resfriados</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/anticoncepcionaisedisturbioshormonais"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Anticoncepcionais e Distúrbios Hormonais</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/antifungicos"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Antifúngicos</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/aparelhodigestivo"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Aparelho Digestivo</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/colirios"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Colírios</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/hipertensao,coracao,diabetesecolesterol"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Hipertensão, Coração, Diabetes e Colesterol</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/hipo/hipertireodismo"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Hipo/Hipertireodismo</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/outros"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Outros</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/genericos/prostata"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Próstata</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 
+				
+				
+				<a class="dropdown-toggle a-menu menu-li" data-toggle="dropdown" href="/vitaminas"> 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					
+					 
+					
+					<img height="30px" src="/cmsstatic/layout/IconeMenuQuatro.png" />
+					
+					  
+					
+					
+					<br />
+					<span class="span-menu">Vitaminas</span>
+					<!--  <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div>  -->
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Vitaminas</legend>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							<ul>						
+								<a href="/vitaminas">
+							
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">
+										Ver todos os produtos <span class="glyphicon glyphicon-chevron-right"></span>
+									</li>
+								</a>
+								
+							</ul>
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/vitaminas/centrum"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Centrum</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/vitaminas/calcio,omega3eoutrasvitaminas"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Cálcio, Omega 3 e Outras Vitaminas</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/vitaminas/lavitan"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Lavitan</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/vitaminas/polivitaminicos"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Polivitamínicos</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 
+				
+				
+				<a class="dropdown-toggle a-menu menu-li" data-toggle="dropdown" href="/beleza&amp;saude"> 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					
+					 
+					
+					
+					<img height="30px" src="/cmsstatic/layout/IconeMenuCinco.png" />
+					  
+					
+					
+					<br />
+					<span class="span-menu">Beleza &amp; Saúde</span>
+					<!--  <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div>  -->
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Beleza &amp; Saúde</legend>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							<ul>						
+								<a href="/beleza&amp;saude">
+							
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">
+										Ver todos os produtos <span class="glyphicon glyphicon-chevron-right"></span>
+									</li>
+								</a>
+								
+							</ul>
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/acne,faceepele"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Acne, Face e Pele</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/aparelhos"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Aparelhos</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/dermocosmeticos"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Dermocosméticos</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/esmaltes"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Esmaltes</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/fraldas"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Fraldas</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/higiene"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Higiene</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/make"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Make</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/outros"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Outros</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/paraoscabelos"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Para os Cabelos</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/preservativoselubrificantes"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Preservativos e Lubrificantes</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/shakesemagrecedores"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Shakes Emagrecedores</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/beleza&amp;saude/tinturas"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Tinturas</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 
+				
+				
+				<a class="dropdown-toggle a-menu menu-li" data-toggle="dropdown" href="/filtrossolares"> 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					
+					 
+					
+					
+					
+					<img height="30px" src="/cmsstatic/layout/IconeMenuSeis.png" />  
+					
+					
+					<br />
+					<span class="span-menu">Filtros Solares</span>
+					<!--  <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div>  -->
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Filtros Solares</legend>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							<ul>						
+								<a href="/filtrossolares">
+							
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">
+										Ver todos os produtos <span class="glyphicon glyphicon-chevron-right"></span>
+									</li>
+								</a>
+								
+							</ul>
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/bbcream"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">BB Cream</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/cenoura&amp;bronze"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Cenoura&amp;Bronze</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/l&#39;orealparis"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">L&#39;oréal Paris</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/laroche-posay"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">La Roche-Posay</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/neutrogena"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Neutrogena</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/nivea"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Nivea</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/sundown"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Sundown</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/filtrossolares/vichy"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Vichy</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		<ul class="nav navbar-nav nav-category" style="width:12.5%">
+			<li class="dropdown mega-dropdown" style="background-color:#3aa8c7;color:#ffffff;">
+				
+				 
+				
+				
+				<a class="dropdown-toggle a-menu menu-li" data-toggle="dropdown" href="/infantil"> 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					
+					 
+					
+					
+					
+					  
+					<img height="30px" src="/cmsstatic/layout/IconeMenuSete.png" />
+					
+					<br />
+					<span class="span-menu">Infantil</span>
+					<!--  <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div>  -->
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" style="background-color:#197b96;color:#ffffff;">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" style="color:#3aa8c7;border-bottom:1px solid #364f78 !important;">Infantil</legend>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							<ul>						
+								<a href="/infantil">
+							
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">
+										Ver todos os produtos <span class="glyphicon glyphicon-chevron-right"></span>
+									</li>
+								</a>
+								
+							</ul>
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/infantil/bicos,mamadeirasechupetas"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Bicos, Mamadeiras e Chupetas</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/infantil/fraldas"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Fraldas</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/infantil/higieneinfantil"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Higiene Infantil</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/infantil/leites"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Leites</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/infantil/outros"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Outros</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					 						 	
+						<li class="col-sm-4">	
+						
+												
+							
+						
+							
+						
+							<ul>
+								<!--  <a  style="cursor:pointer;" th:unless="${#lists.isEmpty(cat.getChildCategories())}" class="a-categoria" > 
+								
+									<li class="dropdown-header " style="white-space:inherit;"  th:text="${cat.name}" th:style="${cssSubMenu + cssLetrasGrandes}">Categoria</li>
+								</a>  --> 
+								
+								<a style="cursor:pointer;" href="/infantil/pomadasparaassaduras"> 
+									<!-- th:if="${#lists.isEmpty(cat.getChildCategories())}"   -->
+									<li class="dropdown-header" style="background-color:#197b96;color:#ffffff;">Pomadas para Assaduras</li>
+								</a>	
+									
+								
+								
+								
+												
+								
+							</ul>
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul>
+		
+		<!-- Menu para filtrar por marcas -->
+		<!-- <ul class="nav navbar-nav nav-category" th:style="'width:' + ${((100 * 1.0 ) / (#lists.size(navCategories) + 1))} + '%'"  >
+			<li class="dropdown mega-dropdown"  th:style="${cssBotaoMenu}">
+				
+				
+				
+				
+				<a class="dropdown-toggle a-menu menu-li"  data-toggle="dropdown" > 
+				   <div class="visible-md visible-lg">
+				 	<div style="height:28px;"></div>
+				 </div>  
+					<img th:src="@{/cmsstatic/layout/IconeMenuMarcas.png}"  height="30px"/>
+					
+					
+					<br/>
+					<span class="span-menu" >Marcas</span>
+					 <div class="visible-md visible-lg">
+						<div  style="height:26px;"></div>
+					</div> 
+				 </a>
+				<ul class="dropdown-menu mega-dropdown-menu row" th:style="${cssSubMenu}">
+					
+					 	 	
+					 <div class="col-sm-12">
+					 	
+					 	<legend class="legend-vsm" th:style="${cssLetrasGrandes} + 'border-bottom:1px solid #364f78 !important;'" >Marcas</legend>
+					 	
+					 	<br/>
+					 	<form role="form">
+						    <div class="form-group">
+						    	 <label >Filtrar Marcas</label>
+						        <input id="searchbrands" class="form-control" type="search" placeholder="Filtrar..." />
+						    </div>
+						    
+						</form>
+					 						 	
+						<li class="col-sm-12"  >	
+																
+							<div id="brandsList" class="list-group">
+						        
+						    </div>
+
+						</li>
+					</div>
+					
+				</ul>
+				
+				
+				
+			</li>
+		</ul> -->
+		
+		
+	</div><!-- /.nav-collapse -->
+</nav>
+
+</div> <!-- Container -->
+
+</div>
+
+  
+ 
+ 
+<div class="container">
+
+<style>
+/* AVALIACAO DO PRODUTO */
+ .rating {
+    float:left;
+    border:none;
+}
+.rating:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+    clip:rect(0, 0, 0, 0);
+}
+.rating:not(:checked) > label {
+    float:right;
+    width:1em;
+    padding:0 .1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:200%;
+    line-height:1.2;
+    color:#ddd;
+}
+.rating:not(:checked) > label:before {
+    content:'★ ';
+}
+.rating > input:checked ~ label {
+    color: #f70;
+}
+.rating:not(:checked) > label:hover, .rating:not(:checked) > label:hover ~ label {
+    color: gold;
+}
+.rating > input:checked + label:hover, .rating > input:checked + label:hover ~ label, .rating > input:checked ~ label:hover, .rating > input:checked ~ label:hover ~ label, .rating > label:hover ~ input:checked ~ label {
+    color: #ea0;
+}
+.rating > label:active {
+    position:relative;
+}
+
+</style>  
+  <div class="modal fade" id="modalReview" role="dialog">
+  <form action="/reviews/product/35851" method="post">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+       
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Registre seu Coment&aacute;rio</h4>
+        </div>
+        <div class="modal-body">
+
+	            <fieldset class="rating">   
+                 	<input type="radio" id="star5" name="rating" value="5" />
+				    <label for="star5">5 stars</label>
+				    <input type="radio" id="star4" name="rating" value="4" />
+				    <label for="star4">4 stars</label>
+				    <input type="radio" id="star3" name="rating" value="3" />
+				    <label for="star3">3 stars</label>
+				    <input type="radio" id="star2" name="rating" value="2" />
+				    <label for="star2">2 stars</label>
+				    <input type="radio" id="star1" name="rating" value="1" />
+				    <label for="star1">1 star</label>                  
+	            </fieldset>
+	            
+	            <div class="form-group">
+		            <label for="reviewText">Coment&aacute;rio</label>
+	                <textarea maxlength="255" class="form-control" type="text" name="reviewText" id="reviewText" rows="6"></textarea>    
+	            </div>
+	            
+	                      
+	            
+	          <!--   <div class="login_register">            
+	                <input class="review_button big red" id="confirm_login_register" type="submit"  value="Confirme"/>               
+	            </div> -->
+            
+            
+        	
+        </div>
+        <div class="modal-footer">
+        	<button type="button" class="btn btn-default pull-left" data-dismiss="modal">Fechar</button>
+        	<input class="review_button big red btn btn-success" id="confirm_login_register" type="submit" value="Confirme" />
+          
+        </div>
+      </div>
+      
+    </div>
+   <input type="hidden" name="csrfToken" value="0OR1-UYS8-H0G8-01C8-SRKM-HDLC-B5JN-WXZ3" /></form> 
+  </div>
+
+<!--  Usados para montar o compartilhamento nas redes sociais -->
+<div id="descriptionMeta" style="font-family: 'Roboto', sans-serif;" hidden="true">Bronz Sundown Fps 60 120ml</div>
+<div id="urlMeta" style="font-family: 'Roboto', sans-serif;" hidden="true">/filtrossolares/bronzsundownfps60120ml19744</div>
+
+
+
+ <div class="">
+ 		<br />
+ 		<div class="container">
+
+			<ol class="breadcrumb" style="background-color: #f7f7f7;">
+			  <li>
+			  	<a href="/"> 
+					<span class="descricao_brad_cumb"> <img style="margin-top: -5px;" height="20px" src="/img/IconeMenuHome.png" /> </span>
+				</a>
+			  </li>	
+			  <li>
+			  	<a href="/filtrossolares"> 
+					<span class="descricao_brad_cumb"> Filtros Solares </span>
+				</a>
+			  </li>			 
+			  <li class="active">
+		  		<a href="/filtrossolares/sundown"> 
+					<span class="descricao_brad_cumb"> Sundown </span>
+				</a>
+			  </li>
+			</ol>
+			
+		</div>
+ 	
+	<div class="col-xs-12 visible-xs">
+	  <div class="col-md-12">
+	   <h1 id="nameMob" style="text-align: center;">Bronz Sundown Fps 60 120ml</h1>
+	  </div>
+	 
+	  
+   </div>	
+     <div class="col-md-6 col-xs-12"> 
+     <br />
+        
+     <div class="">
+     
+     	<div class="product col-md-12 service-image-left">
+                   
+			<center>
+				<div id="product_main_image">	
+					<img id="main_image" class="img-responsive" src="/cmsstatic/product/35851/15.jpg" alt="Bronz Sundown Fps 60 120ml" />
+					
+					
+				</div>
+				
+				
+				
+				
+				
+			</center>
+			
+		</div>
+		
+		<div class="container service1-items col-xs-12 col-md-12 pull-left">
+			
+			<center>
+				<div id="product_thumbs">	
+					<div>
+						<a id="item-1" class="service1-item">
+							<img onclick="trocaImagem(this.src);" src="/cmsstatic/product/35851/15.jpg?browse" alt="Bronz Sundown Fps 60 120ml" />
+						</a>
+					</div>
+					
+				</div>
+					
+					
+				<div>
+					
+				</div>
+				
+			</center>
+
+			
+		</div>
+     
+     </div>
+
+  </div> 
+   <div class="col-md-6 col-xs-12" style="border:1px solid #e0dcdc;">
+  	<!-- Description -->
+  	<div class="row hidden-xs">
+	  <div class="col-md-12">
+	   <h1 id="name">Bronz Sundown Fps 60 120ml</h1>
+	  </div>
+   </div>
+   
+   <div class="row">
+   
+	<!--    <div class="col-md-6">
+	   		
+	   		 <div class="col-md-12">	
+			      <span>Peso:</span>
+				  <span th:text="${product.defaultSku.weight.weight}">
+				  Peso
+				  </span>
+				  <span>Kg</span>
+			 </div>
+				 
+	  </div> -->
+	  <div class="col-md-6">	
+   			
+   			
+
+   			
+      </div>
+    
+  
+   </div><!-- end row -->
+   <br />
+   <div class="row">
+	 <div class="col-md-3 col-xs-12">
+	 	<a href="#div_avaliacao" style="color: #666;"> <div class="averating" align="center" style="margin-bottom: 10px;">
+       
+                    
+                    
+                    <div align="left">                   
+                    	<div class="col-md-3">
+						  <span class="label label-info" style="font-size:13px;">Avalie</span>
+						 </div>                                               
+                    </div>
+      </div>    
+      </a>
+
+	
+	 </div>
+	 
+	 
+	
+	 
+	</div><!-- end row -->
+   	<br />
+	
+	<div class="detalhesComprarProduto">
+		
+		<!-- end row -->
+		
+		<div id="cartIndisponivel" style="padding: 10px;" class="product_show">
+			
+			<div class="row">	
+	
+		<div>
+			<div class="col-md-12 col-xs-12" style="color:#d90207">	
+			
+			
+				
+			  	<h2 class="product-price">R$ 52,83</h2> 
+			 	 <h2 style="margin-left:5px;">no boleto</h2> 
+			 	 <label style="font-weight: 100;">Valor no boleto com desconto</label>
+		 	 
+			 </div>
+			  <div class="col-md-12 col-xs-12" style="color: #545454;">	
+			  
+				  <h4 class="product-price">R$ 55,47</h4> 
+				  <h4 style="margin-left:5px;font-weight:bold;"> no cartão</h4>	  
+				
+			 </div>
+			 <div class="col-md-12" style="">	
+			  
+				  <div id="priceparcelado" style="float: left;margin-bottom:10px;color: #545454;font-weight:bold;" align="left">em até 3 x  de R$ 18,49</div> 
+				
+			 </div>
+		</div>
+		
+		
+		 
+		</div><!-- end row -->
+			
+			
+			<p style="color: #354F79; font-weight: bold; font-size: 29px; line-height: 1em;">Já vendemos todo o estoque deste produto !</p>
+			<p style="color: #7B7B7B;" align="justify">Gostaria de ser avisado quando o produto chegar na loja ? Clique no botão abaixo e informe seu e-mail!</p>
+			<a title="Produto Indispon&iacute;vel no momento" id="messageProductAviseMe" class="messageProductAviseMe" style="outline: 0; text-decoration: none;cursor:pointer;"><img src="/img/btn_avise_me.jpg" /></a>
+			<input type="hidden" id="idProduto" name="productId" value="35851" /> 	
+			
+			<!-- <div id="avise-modal" style="background: #354F79; color: #fff">
+	<blc:form action="#" th:object="${aviseForm}" th:action="@{'/aviseme/product/' + *{product.id}}" method="post">
+	<div id="indisponivel-img-header" align="center">
+		<img th:src="@{/img/email_avise_me.jpg}" width="170" height="162" />
+	</div>
+
+	<p align="center"
+		style="font-family: 'Droid Sans', sans-serif; font-size: 15px;">Informe
+		seu e-mail para ser avisado assim que o produto chegar em nossa loja.</p>
+	<div id="indisponivel-input-button" align="center">
+		<input type="email" id="email" th:field="*{email}" th:classappend="${#fields.hasErrors('email')}? 'fieldError'" style="width: 80%; height: 25px; margin-bottom: 15px;" placeholder="Digite aqui seu e-mail" /> 
+		<input class="button_avise_me review_button big red" type="submit" value=""></input>
+	</div>
+	</blc:form>
+</div> --><!-- Referente ao pop up do botão comprar --><!-- <a  th:href="*{id}" th:class="*{id}"  data-toggle="modal"  style="display:none;"> </a>  --><div class="modal text-center" role="dialog" id="avise-modal">	
+			<div class="modal-dialog modal-md">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<div class="">
+							<h4 class="modal-title">Avise-me quando chegar!</h4>
+						</div>
+				         
+				     </div>
+				     <form id="avisemeForm" method="post" action="/aviseme/product/35851">
+						 <div class="modal-body">
+				         	
+								<div id="indisponivel-img-header" align="center">
+									<img height="162" src="/img/email_avise_me.png" />
+								</div>
+								<br />
+								<h5>Informe seu e-mail para ser avisado assim que o produto chegar em nossa loja.</h5>
+								<div id="indisponivel-input-button form-control" align="center">
+									<input type="email" id="email" name="email" class="form-control" style="width: 80%;" placeholder="Digite aqui seu e-mail" /> 
+								</div>
+							
+							
+								
+				    	 </div>
+						 <div class="modal-footer">
+								<div class="row">
+									<div class="col-sm-12 col-md-6">
+										<a data-dismiss="modal" class="btn btn-warning btn-block">Voltar</a>
+									</div>
+									<br class="visible-xs" />
+									<div class="col-sm-12 col-md-6">
+										<input class="button_avise_me btn btn-product btn-comprar btn-block" type="submit" value="Enviar" />
+										
+									</div>
+								</div>
+						</div>
+					 <input type="hidden" name="csrfToken" value="0OR1-UYS8-H0G8-01C8-SRKM-HDLC-B5JN-WXZ3" /></form>
+				</div>
+			</div>	
+		</div>		
+
+		
+		<div class="modal text-center" role="dialog" id="avise-modal-success">	
+			<div class="modal-dialog modal-md">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<div class="">
+							<h4 class="modal-title">Pronto!</h4>
+						</div>
+				         
+				     </div>
+					 <div class="modal-body">
+			         					
+							<div class="row text-center" style=" font-size: 15px;">
+								Você receberá um e-mail da nossa equipe quando o produto chegar na loja.
+								<br />
+								Obrigado pela preferência!
+							</div>					
+			    	 </div>
+					 <div class="modal-footer">
+							  <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+					</div>
+				</div>
+			</div>	
+		</div>	
+		
+							
+		</div>
+		<!--   <div class="row text-center" style="padding-top:10px;">
+			  <a onclick="goInfo();">
+			  		 <button class="btn btn-default" style="margin-top:10px;">
+					    <span class="glyphicon glyphicon-cog" ></span> Informações
+					 </button>
+			  </a>
+			  <a th:unless="${#lists.isEmpty(produtosRelacionados)}" onclick="goProductRel();">	
+			  	 <button class="btn btn-default hidden-xs" style="margin-top:10px;">
+				    <span class="glyphicon glyphicon-th-list" ></span> Relacionados   
+				  </button>
+			  </a>
+			  <a onclick="goAvaliacoes();">
+			  	  <button class="btn btn-default" style="margin-top:10px;">
+				    <span class="glyphicon glyphicon-star" ></span> Avaliações   
+				  </button>
+			  </a>
+			   
+          </div> -->
+	</div>
+		<!-- Produto que necessita de receita médica, não pode ser comercializado -->
+		
+	</div><!-- end row -->
+	<!-- <div class="row">
+	 <div class="col-md-12 bottom-rule top-10"></div>
+	</div> --><!-- end row -->
+	
+
+	           
+	      
+	
+ </div>
+
+	
+	<div class="container">
+		<div class="col-md-12 col-xs-12">
+			<div>
+				<div id="productRel" style="margin-top: 15px;">
+					
+					<legend class="legend-vsm">Principais produtos em <span>Filtros Solares</span></legend>		
+					<div class="multiple-items list-produto-relacionado"> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-36001"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/bronzsundownkidsfps30120m25579" title="Bronze Sundow Kids 120m 30 Uva" class="36001">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/36001/18.jpg?browse" alt="Bronze Sundow Kids 120m 30 Uva" title="Bronze Sundow Kids 120m 30 Uva" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Bronze Sundow Kids 120m 30 Uva</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-34101"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/bronzcenouraebronze15efd21885" title="Bronz Cenoura E Bronze 15 Efeito Dourado 110ml" class="34101">  
+    
+  
+  <div class="thumbnail hovereffect produto-relacionado">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/34101/cenouraefeitodourado15.png?browse" alt="Bronz Cenoura E Bronze 15 Efeito Dourado 110ml" title="Bronz Cenoura E Bronze 15 Efeito Dourado 110ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Bronz Cenoura E Bronze 15 Efeito Dourado 110ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-34501"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/bronzcenouraebronzefps158533" title="Bronz Cenoura E Bronze Fps 15" class="34501">  
+    
+  
+  <div class="thumbnail hovereffect produto-relacionado">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/34501/cenoure15110ml.jpg?browse" alt="Bronz Cenoura E Bronze Fps 15" title="Bronz Cenoura E Bronze Fps 15" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Bronz Cenoura E Bronze Fps 15</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-32701"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/antheliosxlprotefps70120ml26619" title="Anthelios Xl Protect Fps70 120ml" class="32701">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/32701/ethexlpro70.jpg?browse" alt="Anthelios Xl Protect Fps70 120ml" title="Anthelios Xl Protect Fps70 120ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Anthelios Xl Protect Fps70 120ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-39301"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/neutrogenasunfresfps30mouss26629" title="Neutrogena Sun Fresh Mousse Effervescent Fps 30" class="39301">  
+    
+  
+  <div class="thumbnail hovereffect produto-relacionado">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/39301/55.jpg?browse" alt="Neutrogena Sun Fresh Mousse Effervescent Fps 30" title="Neutrogena Sun Fresh Mousse Effervescent Fps 30" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Neutrogena Sun Fresh Mousse Effervescent Fps 30</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-35301"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/bronzexpertisefps50200ml26662" title="Protetor Solar Expertisse Fps 50 200ml" class="35301">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/35301/5.jpg?browse" alt="Protetor Solar Expertisse Fps 50 200ml" title="Protetor Solar Expertisse Fps 50 200ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Protetor Solar Expertisse Fps 50 200ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-39151"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/neutrogenasunffacfps3050ml26626" title="Neutrogena Sunfresh Facial Fps30 50ml" class="39151">  
+    
+  
+  <div class="thumbnail hovereffect produto-relacionado">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/39151/52.jpg?browse" alt="Neutrogena Sunfresh Facial Fps30 50ml" title="Neutrogena Sunfresh Facial Fps30 50ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Neutrogena Sunfresh Facial Fps30 50ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-42151"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/idealsoleilantiacnefps3026817" title="Ideal Soleil Antiacne Fps 30 50g Toque Seco" class="42151">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/42151/ideal-soleil-antiacne-fps-30-vichy-protetor-solar-50G.jpg?browse" alt="Ideal Soleil Antiacne Fps 30 50g Toque Seco" title="Ideal Soleil Antiacne Fps 30 50g Toque Seco" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Ideal Soleil Antiacne Fps 30 50g Toque Seco</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-32601"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/antheliosxlprotfps30120ml26616" title="Anthelios Xl Protect Fps30 120ml" class="32601">  
+    
+  
+  <div class="thumbnail hovereffect produto-relacionado">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/32601/athexl30.png?browse" alt="Anthelios Xl Protect Fps30 120ml" title="Anthelios Xl Protect Fps30 120ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Anthelios Xl Protect Fps30 120ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-42251"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/idealsoleilfps30c/base40g26818" title="Ideal Soleil Fps30 C/ Base 40g Toque Seco" class="42251">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/42251/idealsoleicombasefps30.jpg?browse" alt="Ideal Soleil Fps30 C/ Base 40g Toque Seco" title="Ideal Soleil Fps30 C/ Base 40g Toque Seco" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Ideal Soleil Fps30 C/ Base 40g Toque Seco</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-42201"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/idealsoleilhydrafps50200ml26630" title="Ideal Soleil Hydra Soft Fps50 200ml" class="42201">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/42201/tube_hydrasoft_200ml-410x315.jpg?browse" alt="Ideal Soleil Hydra Soft Fps50 200ml" title="Ideal Soleil Hydra Soft Fps50 200ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Ideal Soleil Hydra Soft Fps50 200ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-35701"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/bronzsundownfps50120ml9738" title="Bronz Sundown Fps 50 120ml" class="35701">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/35701/12.jpg?browse" alt="Bronz Sundown Fps 50 120ml" title="Bronz Sundown Fps 50 120ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Bronz Sundown Fps 50 120ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-35751"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/bronzsundownfps50200ml18386" title="Bronz Sundown Fps 50 200ml" class="35751">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/35751/13.jpg?browse" alt="Bronz Sundown Fps 50 200ml" title="Bronz Sundown Fps 50 200ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Bronz Sundown Fps 50 200ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-32251"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/antheliosdermopedfps60120ml26624" title="Anthelios Dermo-pediatrics Fps60 120ml" class="32251">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/32251/antheliosdermoped60.jpeg?browse" alt="Anthelios Dermo-pediatrics Fps60 120ml" title="Anthelios Dermo-pediatrics Fps60 120ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Anthelios Dermo-pediatrics Fps60 120ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-38951"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/beleza&amp;saude/neutrogenasunfrfps50120ml24747" title="Neutrogena Sun Fresh Fps 50 120ml" class="38951">  
+    
+  
+  <div class="thumbnail hovereffect produto-relacionado">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/38951/47.jpg?browse" alt="Neutrogena Sun Fresh Fps 50 120ml" title="Neutrogena Sun Fresh Fps 50 120ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Neutrogena Sun Fresh Fps 50 120ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+		     
+			     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-39401"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/nivealcprotfps50125ml13774" title="Nivea Lc Prot Fps 50 125ml" class="39401">  
+    
+  
+  <div class="thumbnail hovereffect produto-relacionado">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/39401/59.jpg?browse" alt="Nivea Lc Prot Fps 50 125ml" title="Nivea Lc Prot Fps 50 125ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Nivea Lc Prot Fps 50 125ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+			       
+					</div>
+			
+				</div>
+			</div>		
+		</div>
+		<br />
+	</div>
+	
+	
+	<div class="container"> 
+		<div class="col-md-12 col-xs-12" id="productDescription">	
+		
+		
+				
+		 <!-- Nav tabs -->
+		 <div class="card">
+	           <ul class="nav nav-tabs" role="tablist">
+	               <li role="presentation" class="active">
+	              	 	<a href="#descricao" aria-controls="descricao" role="tab" data-toggle="tab">
+	              	 		<span class="glyphicon glyphicon-list"></span> Descrição Geral
+	              	 	</a>
+	               </li>
+	              <!--  <li role="presentation" th:if="${farmacia == 0}">
+		               <a href="#especificacao" aria-controls="especificacao" role="tab" data-toggle="tab">
+		               		<span class="glyphicon glyphicon-cog" /> Especificações Técnicas
+		               </a>
+	               </li>
+	               <li role="presentation" th:if="${farmacia == 0}">
+		               <a href="#caixa" aria-controls="caixa" role="tab" data-toggle="tab">
+		               	  <span class="glyphicon glyphicon-gift"/> O que vem na caixa ?
+		               </a>
+	               </li> -->
+	               
+	           </ul>
+	
+	           <!-- Tab panes -->
+	           <div class="tab-content">
+	           		<!-- Descricao -->
+	               <div role="tabpanel" class="tab-pane active" id="descricao">
+	               	       
+	               		<div id="regrasAnvisa">
+							<div>
+			
+								<div class="container">
+									
+									
+									
+									
+									
+									<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+										<div class="col-md-4 col-xs-4" style="padding:10px;">
+											 EAN:
+										</div>
+										<div class="col-md-8 col-xs-8" style="padding:10px;">7891010026844</div>
+									</div>
+									<!-- <div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+										<div class="col-md-4 col-xs-4" style="padding:10px;">
+											 Seção:
+										</div>
+										<div class="col-md-8 col-xs-8" style="padding:10px;" th:text="*{seccao}"/>
+									</div> -->
+									<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+										<div class="col-md-4 col-xs-4" style="padding:10px;">
+											 Fabricante:
+										</div>
+										<div class="col-md-8 col-xs-8" style="padding:10px;">FARMACRUS DISTR MED S C LTDA</div>
+									</div>
+									
+				
+								</div>
+								<br />
+								
+							</div>
+						</div>
+					
+					<div class="col-md-12"></div><!-- Descricao -->
+	               </div>
+	               
+	               <!-- Especificação -->
+	               <div role="tabpanel" class="tab-pane" id="especificacao">
+	               	
+	               			<div class="container">
+									
+								<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+									<div class="col-md-4 col-xs-4" style="padding:10px;">
+										Nome:
+									</div>
+									<div class="col-md-8 col-xs-8" style="padding:10px;"></div>
+								</div>
+								<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+									<div class="col-md-4 col-xs-4" style="padding:10px;">
+										 Fabricante:
+									</div>
+									<div class="col-md-8 col-xs-8" style="padding:10px;"></div>
+								</div>
+								<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+									<div class="col-md-4 col-xs-4" style="padding:10px;">
+										 Dimensão:
+									</div>
+									<div class="col-md-8 col-xs-8" style="padding:10px;"></div>
+								</div>
+								<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+									<div class="col-md-4 col-xs-4" style="padding:10px;">
+										 Modelo:
+									</div>
+									<div class="col-md-8 col-xs-8" style="padding:10px;"></div>
+								</div>
+
+							
+			
+							</div>
+	               		
+	               </div><!-- Especificação -->
+	               
+	               <!-- O que vem na caixa ? -->
+	               <div role="tabpanel" class="tab-pane" id="caixa">
+	              
+					</div><!-- O que vem na caixa ? -->
+	               
+	               <div role="tabpanel" class="tab-pane" id="garantia"><!-- Garantia -->
+	               		
+	               		<span></span>
+	               	
+	               </div><!-- Garantia -->
+	           </div>
+		</div>
+			<!-- <legend class="legend-vsm"> Informações sobre o produto</legend>
+			<br/>
+			<div id="regrasAnvisa">
+					<div th:if="${#object instanceof T(com.mycompany.core.catalog.domain.ProductVsm) and farmacia == 1}">
+	
+						<div class="container">
+							
+							<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+								<div class="col-md-4 col-xs-4" style="padding:10px;">
+									Principio Ativo:
+								</div>
+								<div class="col-md-8 col-xs-8" style="padding:10px;" th:text="*{principioAtivo}"/>
+							</div>
+							<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+								<div class="col-md-4 col-xs-4" style="padding:10px;">
+									 Registro MS:
+								</div>
+								<div class="col-md-8 col-xs-8" style="padding:10px;" th:text="*{numeroRegistroMs}"/>
+							</div>
+							<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+								<div class="col-md-4 col-xs-4" style="padding:10px;">
+									 Classe:
+								</div>
+								<div class="col-md-8 col-xs-8" style="padding:10px;" th:text="*{classe}" />
+							</div>
+							<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+								<div class="col-md-4 col-xs-4" style="padding:10px;">
+									 Seção:
+								</div>
+								<div class="col-md-8 col-xs-8" style="padding:10px;" th:text="*{seccao}"/>
+							</div>
+							<div class="col-xs-12" style="background: #f2f0ee;border-bottom: 2px solid #fff;">
+								<div class="col-md-4 col-xs-4" style="padding:10px;">
+									 Fabricante:
+								</div>
+								<div class="col-md-8 col-xs-8" style="padding:10px;" th:text="${product.manufacturer}"/>
+							</div>
+							<p>
+								<strong style="margin-left: 5px;">Principio Ativo: </strong> <span
+									th:text="*{principioAtivo}"></span> <br /> <strong
+									style="margin-left: 5px;"> Registro MS: </strong> <span
+									th:text="*{numeroRegistroMs}"></span> <br />
+									<strong style="margin-left: 5px;"> Classe terapêutica: </strong> <span
+									>Antibiótico</span>
+							</p>
+		
+						</div>
+						<br />
+						<div class="mensagem-anvisa text-center" th:if="*{msgAnvisa}">
+		
+							<span class="descricao_texto_msg_anvisa " th:text="*{msgAnvisa}">
+								Mensagem Anvisa: </span>
+							<br/><br/>
+						</div>
+					</div>
+				</div>
+			
+			<div class="col-md-12" th:utext="*{longDescription}">
+				descricao
+						
+			</div> -->
+		</div>
+	</div>
+	<br />
+	
+	<!-- <div class="row"> -->
+		<div id="div_avaliacao" class="col-md-12 col-xs-12">
+			<legend class="legend-vsm">Avalia&ccedil;&atilde;o dos consumidores</legend>
+
+			<br />
+
+			<div id="customer-reviews-container" align="left">
+				
+
+				
+
+
+
+				
+				<div>
+					<a href="/login?successUrl=/filtrossolares/bronzsundownfps60120ml19744"> <input class=" btn btn-login  btn-sm" type="button" title="Clique para realizar Login" value="Efetue o Login e avalie este Produto" style="background-color:#3cb878;color:#ffffff;" />
+					</a>
+				</div>
+
+			</div>
+		   </div>
+		   
+		    <div class="container">
+				<div class="col-md-12 col-xs-12">
+					<div>
+						<div id="productRel" style="margin-top: 15px;">
+							
+							<legend class="legend-vsm">Produtos em destaque</legend>		
+							<div class="multiple-items list-produto-relacionado"> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-13001"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/disfuncaoeretil/kitsildenafila40comp(10x4)26764" title="Citrato De Sildenafila 50mg C/ 40 Comp (10 Caixas C/ 4 Comp) Eurofarma" class="13001">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">90% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/13001/eurogenericos.jpg?browse" alt="Citrato De Sildenafila 50mg C/ 40 Comp (10 Caixas C/ 4 Comp) Eurofarma" title="Citrato De Sildenafila 50mg C/ 40 Comp (10 Caixas C/ 4 Comp) Eurofarma" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Citrato De Sildenafila 50mg C/ 40 Comp (10 Caixas C/ 4 Comp) Eurofarma</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-145651"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/medicamentos/expecxarope120ml-legrand4295" title="Expec Xarope Expectorante 120ml" class="145651">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">50% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/145651/expec-xarope-expectorante-sabor-framboesa-e-caramelo-120ml.jpg?browse" alt="Expec Xarope Expectorante 120ml" title="Expec Xarope Expectorante 120ml" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Expec Xarope Expectorante 120ml</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-11001"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/disfuncaoeretil/kitsildenafila40comp(10x4)26762" title="Citrato De Sildenafila 50mg C/ 40 Comp (kit 10 Caixas C/ 4 Comp)sandoz" class="11001">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">78% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/11001/sandoZ.jpg?browse" alt="Citrato De Sildenafila 50mg C/ 40 Comp (kit 10 Caixas C/ 4 Comp)sandoz" title="Citrato De Sildenafila 50mg C/ 40 Comp (kit 10 Caixas C/ 4 Comp)sandoz" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Citrato De Sildenafila 50mg C/ 40 Comp (kit 10 Caixas C/ 4 Comp)sandoz</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-22001"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/vitaminas/lavitansuplemmulherc/60cp23620" title="Lavitan  Mulher C/60 Comp" class="22001">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">50% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/22001/800401_1.jpg?browse" alt="Lavitan  Mulher C/60 Comp" title="Lavitan  Mulher C/60 Comp" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Lavitan  Mulher C/60 Comp</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-14351"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/disfuncaoeretil/kitdejavu10cxsc/2comp26771" title="Kit Dejavu 50mg (10 Cxs C/2 Comp +1 Pres Jontex C/ 6 +1 K-med Lub 50g)" class="14351">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">35% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/14351/euro.jpg?browse" alt="Kit Dejavu 50mg (10 Cxs C/2 Comp +1 Pres Jontex C/ 6 +1 K-med Lub 50g)" title="Kit Dejavu 50mg (10 Cxs C/2 Comp +1 Pres Jontex C/ 6 +1 K-med Lub 50g)" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Kit Dejavu 50mg (10 Cxs C/2 Comp +1 Pres Jontex C/ 6 +1 K-med Lub 50g)</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-21751"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/vitaminas/lavitanazmaismulherc/90cpr26319" title="Lavitan A-z Mais Mulher C/ 90 Comp" class="21751">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">39% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/21751/103012_1.jpg?browse" alt="Lavitan A-z Mais Mulher C/ 90 Comp" title="Lavitan A-z Mais Mulher C/ 90 Comp" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Lavitan A-z Mais Mulher C/ 90 Comp</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-13351"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/disfuncaoeretil/kitsildenafila100comp(25x426766" title="Citrato De Sildenafila 50mg C/100 Comp (25 Caixas C/ 4 Comp) Eurofarma" class="13351">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">93% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/13351/eurogenericos.jpg?browse" alt="Citrato De Sildenafila 50mg C/100 Comp (25 Caixas C/ 4 Comp) Eurofarma" title="Citrato De Sildenafila 50mg C/100 Comp (25 Caixas C/ 4 Comp) Eurofarma" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Citrato De Sildenafila 50mg C/100 Comp (25 Caixas C/ 4 Comp) Eurofarma</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-21701"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/vitaminas/lavitanazmaisc/90drg25344" title="Lavitan A-z Mais C/ 90 Comp Cimed" class="21701">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">38% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/21701/103009_1.jpg?browse" alt="Lavitan A-z Mais C/ 90 Comp Cimed" title="Lavitan A-z Mais C/ 90 Comp Cimed" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Lavitan A-z Mais C/ 90 Comp Cimed</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-21951"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/vitaminas/lavitanmemoriac/60comp26650" title="Lavitan Memoria C/60 Comp" class="21951">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">46% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/21951/128470_1.jpg?browse" alt="Lavitan Memoria C/60 Comp" title="Lavitan Memoria C/60 Comp" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Lavitan Memoria C/60 Comp</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-21351"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/vitaminas/calcitranmdkc/60comp26511" title="Calcitran Mdk C/60 Comp" class="21351">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">20% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/21351/Calcitran-MDK-60-Comprimidos-Drogaria-SP-550582.jpg?browse" alt="Calcitran Mdk C/60 Comp" title="Calcitran Mdk C/60 Comp" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Calcitran Mdk C/60 Comp</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-42001"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/filtrossolares/antheliosxlfacefps3040g26815" title="Anthelios Xl Protect Facial Aqua-serum Fps 30 40gr" class="42001">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">10% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/42001/7707_1_1_1_1.jpg?browse" alt="Anthelios Xl Protect Facial Aqua-serum Fps 30 40gr" title="Anthelios Xl Protect Facial Aqua-serum Fps 30 40gr" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Anthelios Xl Protect Facial Aqua-serum Fps 30 40gr</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-29501"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/vitaminas/lavitanmaishairc/60caps26794" title="Lavitan Mais Hair C/60 Caps" class="29501">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">24% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/29501/lavitan-hair-com-60-capsulas__42980_std.jpg?browse" alt="Lavitan Mais Hair C/60 Caps" title="Lavitan Mais Hair C/60 Caps" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Lavitan Mais Hair C/60 Caps</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-14601"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/disfuncaoeretil/tadadiario5mgc/30compeuro25822" title="Tada Diario 5mg C/ 30 Comp Eurofarma" class="14601">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">37% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/14601/caixa_mockup_e-commerce.png?browse" alt="Tada Diario 5mg C/ 30 Comp Eurofarma" title="Tada Diario 5mg C/ 30 Comp Eurofarma" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Tada Diario 5mg C/ 30 Comp Eurofarma</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-20401"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/disfuncaoeretil/kittadalafiladiario3caixas26786" title="Kit Tadalafila Diário 5mg C/ 90 Comp (3 Caixas C/ 30 Comp) Sandoz" class="20401">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">55% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/20401/sandoZ.jpg?browse" alt="Kit Tadalafila Diário 5mg C/ 90 Comp (3 Caixas C/ 30 Comp) Sandoz" title="Kit Tadalafila Diário 5mg C/ 90 Comp (3 Caixas C/ 30 Comp) Sandoz" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Kit Tadalafila Diário 5mg C/ 90 Comp (3 Caixas C/ 30 Comp) Sandoz</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-14751"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/disfuncaoeretil/levitra10mgc/1comp14473" title="Levitra 10mg C/1 Comp Bayer" class="14751">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">22% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/14751/BAYER.JPG?browse" alt="Levitra 10mg C/1 Comp Bayer" title="Levitra 10mg C/1 Comp Bayer" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Levitra 10mg C/1 Comp Bayer</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+				     
+					     		<div style="clear:none;" class="col-sm-6 col-md-3"><style>
+
+
+</style>
+
+
+<!-- Referente ao pop up do botão comprar --><a mostrar-miniatura="0" style="display:none;" id="button-22151"> </a>   
+	
+	
+	
+	      
+				
+				
+
+ <!-- PRODUTO QUE NAO POSSUI GRADE  -->     
+ <a style="display:grid;" href="/vitaminas/lavitantestoc/30comp26652" title="Lavitan Testo C/30 Comp" class="22151">  
+   <div style="clear:left;"> 
+  		<span class="label label-default" style="position:absolute;font-size:20px;background-color:#d90207;z-index: 1;">37% OFF</span>   
+   </div> 
+  
+  <div class="thumbnail hovereffect produto-relacionado" style="border: 1px solid #d90207;">
+ 
+	<div style="max-height:12.57142857REM;">
+		<figure>
+			<div class="">
+			
+		
+			<img style="height:12.57142857REM" class="img-responsive img-produto-relacionado" src="/cmsstatic/product/22151/100380_1.jpg?browse" alt="Lavitan Testo C/30 Comp" title="Lavitan Testo C/30 Comp" />
+	        
+	        
+		     
+			
+			  
+			
+			</div>
+			
+		</figure>
+	</div>
+	
+	
+	
+	
+
+	<div class="caption text-center">
+		<div class="row">
+			<div class="col-md-12 col-xs-12" style="color: #333;font-size: 1.1em;line-height: 1.4em; height: 63px;">
+				<p>Lavitan Testo C/30 Comp</p>
+					
+			</div>		
+			
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+	
+		
+	</div>
+	
+</a>
+
+
+<!-- PRODUTO QUE POSSUI GRADE - USA SLICK.JS  -->
+
+ 
+ 
+
+</div> 
+					       
+							</div>
+					
+						</div>
+					</div>		
+				</div>
+				<br />
+			</div> 
+		   
+		<!-- </div> -->
+	
+
+	
+</div> 
+
+</body>
+
+<style>
+.title-widget {
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 1;
+	position: relative;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 25px;
+	margin-left: 0;
+	padding-left: 28px;
+}
+
+.title-widget::before {
+	background-color: #d90207;
+	content: "";
+	height: 22px;
+	left: 0px;
+	position: absolute;
+	top: -2px;
+	width: 5px;
+}
+
+.title-footer{
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 1;
+	position: relative;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 25px;
+	margin-left: 0;
+	padding-left: 30px;
+	padding-top: 2px;
+}
+
+.widget_nav_menu ul {
+	list-style: outside none none;
+	padding-left: 0;
+}
+
+.widget_archive ul li {
+	background-color: rgba(0, 0, 0, 0.3);
+	content: "";
+	height: 3px;
+	left: 0;
+	position: absolute;
+	top: 7px;
+	width: 3px;
+}
+
+.widget_nav_menu ul li {
+	font-size: 13px;
+	font-weight: 700;
+	line-height: 20px;
+	position: relative;
+	text-transform: uppercase;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+	margin-bottom: 7px;
+	padding-bottom: 7px;
+	width: 95%;
+	color: #fff;
+}
+
+.widget-container {
+	color: white;
+}
+
+.title-median {
+	color: #636363;
+	font-size: 20px;
+	line-height: 20px;
+	margin: 0 0 15px;
+	text-transform: uppercase;
+}
+
+.footer-bottom {
+	background-color: #fff;
+	min-height: 30px;
+	width: 100%;
+}
+
+.copyright {
+	color: #505050;
+	line-height: 30px;
+	min-height: 30px;
+	padding: 7px 0;
+	text-align: center;
+}
+
+.design {
+	color: #505050;
+	line-height: 30px;
+	min-height: 30px;
+	padding: 7px 0;
+	text-align: center;
+}
+
+.design a {
+	color: #505050;
+}
+</style>
+
+<!--footer-->
+<footer id="footer" class="container-fluid" style="background-color:#3aa8c7;color:#ffffff;box-shadow: inset 0 -4px 0 rgba(0,0,0,.3);">
+
+
+
+
+	<a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top hidden-xs" role="button" title="Clique para retornar ao topo da página" data-toggle="tooltip" data-placement="left" style="background-color:#3aa8c7;color:#ffffff;"><span class="glyphicon glyphicon-chevron-up"></span></a>
+
+
+
+
+	<div class="">
+		<div class="col-md-9">
+			<div class="row ">
+				<!-- row -->
+				<div class="col-md-3">
+					<!-- widgets column left -->
+					<ul class="list-unstyled clear-margins">
+						<!-- widgets -->
+
+						<li class="widget-container widget_nav_menu">
+							<!-- widgets list -->
+							
+							
+							
+							<h1 class="title-footer title-widget">Informações</h1>
+
+							<ul>
+
+								
+
+								<a href="javascript:redirect(1);" alt="Fale Conosco" title="Fale Conosco" class="sublinhado">
+									<li class="descricao_texto">Fale Conosco</li>
+								</a>
+								<a href="javascript:redirect(5);" alt="Acompanhamento de Pedidos" title="Acompanhamento Pedidos" class="sublinhado">
+									<li class="descricao_texto">Acompanhamento
+										de Pedidos</li>
+								</a>
+								
+								<a href="javascript:redirect(11);" alt="Quem somos" title="Quem somos" class="sublinhado">
+									<li class="descricao_texto">Quem somos</li>
+								</a>
+
+
+								<a href="javascript:redirect(3);" alt="Termos de Uso" title="Termos de Uso" class="sublinhado">
+									<li class="descricao_texto">Termos de Uso</li>
+								</a>
+
+							</ul>
+
+						</li>
+
+
+					</ul>
+
+
+				</div>
+				<!-- widgets column left end -->
+
+
+
+				<div class="col-md-3">
+					<!-- widgets column left -->
+
+					<ul class="list-unstyled clear-margins">
+						<!-- widgets -->
+
+						<li class="widget-container widget_nav_menu">
+							<!-- widgets list -->
+							
+							
+							
+							<h1 class="title-footer title-widget">Dúvidas</h1>
+
+							<ul>
+								<a href="javascript:redirect(2);" alt="Fretes e Entrega" title="Fretes e Entrega" class="sublinhado">
+									<li class="descricao_texto">Fretes e entrega</li>
+								</a>
+								<a href="javascript:redirect(7);" alt="Mapa do site" title="Mapa do site" class="sublinhado">
+									<li class="descricao_texto">Mapa do site</li>
+								</a>
+								<a href="javascript:redirect(4);" alt="Como Comprar" title="Como Comprar" class="sublinhado">
+									<li class="descricao_texto">Como Comprar</li>
+								</a>
+								<a href="javascript:redirect(9);" alt="Política de Devolução" title="Pol&iacute;tica de Troca e Devolu&ccedil;&atilde;o" class="sublinhado">
+									<li class="descricao_texto">Pol&iacute;ticas de Troca e
+										Devolu&ccedil;&atilde;o</li>
+								</a>
+
+
+							</ul>
+
+						</li>
+
+
+					</ul>
+
+
+				</div>
+				<!-- widgets column left end -->
+
+
+
+				<div class="col-md-3">
+					<!-- widgets column left -->
+
+					<ul class="list-unstyled clear-margins">
+						<!-- widgets -->
+
+						
+						<li class="widget-container widget_nav_menu">
+							<!-- widgets list -->
+
+							<h1 class="title-widget">Contato</h1>
+
+							<div class="footerp">
+
+								<!-- <h2 class="title-median">Webenlance Pvt. Ltd.</h2> -->
+								<p>
+									<b>Email:</b> <a style="color: #fff;" href="mailto: brasil@medicamentosbrasil.com.br "> brasil@medicamentosbrasil.com.br </a>
+								</p>
+								<p style="color: white; text-decoration: none;">
+									<b>Telefone: </b> <a style="color: #fff;" href="tel:(18)3422-0457">(18)3422-0457</a>
+								</p>
+
+								<p style="word-break: break-all;">
+									<b>Endere&ccedil;o: </b> <br /> <span>Rua José Nogueira Marmontel <br/> 890  - Centro | Cep: 19814361 </span> <br /> <span>Assis/SP</span>
+								</p>
+							</div>
+
+						</li>
+
+
+					</ul>
+
+
+				</div>
+				<!-- widgets column left end -->
+
+				<div class="col-md-3">
+					<!-- widgets column left -->
+					<ul class="list-unstyled clear-margins">
+						<!-- widgets -->
+
+
+						<li class="widget-container widget_nav_menu">
+							<!-- widgets list -->
+							
+							
+							
+							<h1 class="title-footer title-widget">Pagamentos</h1>
+
+							<ul>
+
+								<li class="text-left">
+									 <img width="52px" src="/img/VI.png" />
+									 <img width="52px" src="/img/MC.png" /> 
+									 <img width="52px" src="/img/EL.png" /> 
+									 <img width="52px" src="/img/boleto.jpg" />
+									  
+								
+								</li>
+								
+								<li class="text-left">
+									 <img width="51px" height="31px" src="/img/payment/diners-icon.png" />
+									 <img width="51px" height="31px" src="/img/payment/amex-icon.png" />
+									  
+									 
+									 
+								</li>
+								<li class="text-left">
+									  <img width="40px" src="/img/delivery.png" />
+									  <img width="52px" src="/img/payment/logo-bcash.png" />
+									 
+								</li>
+
+							</ul>
+
+						</li>
+
+					</ul>
+
+					<br />
+					<ul class="list-unstyled clear-margins">
+						<!-- widgets -->
+
+
+						
+
+					</ul>
+
+
+				</div>
+
+			</div>
+			<br />
+			<br />
+			<div class="row"></div>
+		</div>
+		<div class="col-md-3">
+			<div class="row">
+				<div class="col-md-12">
+					<!-- widgets column center -->
+
+					<ul class="list-unstyled clear-margins">
+						<!-- widgets -->
+
+						<li class="widget-container widget_recent_news">
+							<!-- widgets list -->
+						
+							
+							
+							
+							
+							
+							<!--PÁGINA DO CLIENTE!!!!  -->
+							<div>
+							
+							  <span id="urlFacebook" style="display:none;">https://www.facebook.com/MedicamentosBrasil/</span>
+							  
+								<h1 class="title-footer title-widget" style="margin-bottom: 10px;">Curta
+									nossa página no Facebook</h1>  <script>
+										//<![CDATA[
+											
+												
+										$('body').ready(function() {
+												
+											$('.fb-page').attr("data-href", $("#urlFacebook").text());
+													
+										
+											
+											
+										(function(d, s, id) {
+											var js, fjs = d.getElementsByTagName(s)[0];
+											if (d.getElementById(id))
+												return;
+											js = d.createElement(s);
+											js.id = id;
+											js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.5";
+											fjs.parentNode.insertBefore(js, fjs);
+										}(document, 'script', 'facebook-jssdk'));
+										
+										});
+										
+										//]]>
+									</script>
+								<div id="plugin_facebook" style="margin-top: 10px;">
+								
+									
+								
+									<div class="fb-page" data-width="300" data-height="300" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"></div>
+	
+								</div>
+							</div>
+
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+			
+		<div class="col-md-12">	
+				<h1 class="title-footer title-widget" style="margin-bottom: 10px;">
+				Selos e Certificados
+				</h1>	
+				
+				<br /><br />	
+				
+				
+				<div style="float:left;padding:0px 5px;">
+					<div><a id="seloEbit" href="http://www.ebit.com.br/#medicamentos-brasil" target="_blank" onclick="redir(this.href);"></a> <script type="text/javascript" id="getSelo" src="https://imgs.ebit.com.br/ebitBR/selo-ebit/js/getSelo.js?7245"> </script></div>
+				</div>
+				
+				
+				<div style="float:left;padding:0px 5px;">
+					<a target="_blank" href="https://www.google.com/transparencyreport/safebrowsing/diagnostic/?hl=pt-BR#url=https://www.medicamentosbrasil.com.br"> 
+						<img style="max-width: 175px;float:left;" src="/img/google-safe-browsing.png" />
+					</a>
+				</div>
+				
+				
+				<div><div class="trustedcompany-seal" style="float:left;padding:0px 5px;">				  <a href="http://trustedcompany.com/br/medicamentosbrasil.com.br-opiniões" target="_blank" title="Medicamentosbrasil avaliações no TrustedCompany.com">				    <img src="//trustedcompany.s3.amazonaws.com/sites/all/modules/custom/tc_site_integrations_seal/images/seal.png" alt="Medicamentosbrasil avaliações no TrustedCompany.com" style="width: 60px; height: 68px;" />			  </a>			</div>
+</div>
+				
+				<div style="float:left;padding:0px 5px;">
+
+				<a href="https://www.sslshopper.com/ssl-checker.html#hostname=www.medicamentosbrasil.com.br" target="_blank">
+						<img src="https://www.medicamentosbrasil.com.br/ftp/comodo_secure_seal_113x59_transp.png" />
+				</a>
+				
+
+
+				</div>
+			
+				
+				
+				
+		</div>
+				
+
+
+		
+	</div>
+	
+</footer>
+
+
+
+<!--header-->
+
+<div class="footer-bottom">
+
+	<div class="container-fluid">
+
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<div class="copyright">
+					<strong>Farmacêutico Técnico Responsável</strong> <br /> <span>MATHEUS WENDELL CARDOSO RIBEIRO</span> - CRF <span>79033-SP</span> <br /> <span>Autorização de
+						Funcionamento de Empresa(AFE) - </span><span>0.02361.1</span> <br /> <span>Licença
+						Sanitária - </span><span>350400801</span> <br />
+					<br /> <img class="img-responsive" style="max-height: 30px; margin: 0 auto;" src="/cmsstatic/layout/cabecalho.png" />
+
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<div class="copyright text-center">
+
+					<strong>Medicamentos Brasil de Assis Ltda - EPP</strong> <br /> <span>Medicamentos Brasil</span> <br /> <span>Rua José Nogueira Marmontel <br/> 890  - Centro | Cep: 19814361 </span><br />
+					<span>Assis/SP</span> <br /> <span>CNPJ - </span><span>00.115.960/0001-05</span>
+
+
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<div class="copyright">
+					<strong>Atendimento</strong> <br /> <span>(18)3422-0457</span>
+					<br /> <strong>Horário de Funcionamento</strong> <br /> <span>Segunda à Sexta das 08 às 18 horas - Sábado das 08 ás 12 horas</span><br />
+					<br />
+					 
+					 <a href="http://www.vsm.com.br" style="cursor: pointer;" target="_blank"> <strong>Tecnologia:</strong> <br /> <img src="https://www.vsmshop.com.br/arquivos/imagens/logo.png" class="img-responsive" style="max-height: 40px; margin: 0 auto;" />
+					</a>
+					
+					
+				</div>
+
+			</div>
+			
+			<!-- <div class="col-md-12 text-center"  style="padding-top:50px;padding-bottom:50px;">
+				
+				<div class="col-md-4">
+				
+				</div>
+				<div class="col-md-4">
+					<div th:if="${linkEbit != ''}" class="copyright" th:utext="${linkEbit}"  />
+				
+				</div>
+				<div class="col-md-4">	
+					<strong>Selos e Certificados</strong>	
+					<br/><br/>	
+					<a th:if="${seloGoogleSafeBrowsing != ''}" th:href="${seloGoogleSafeBrowsing}" target="_blank">
+						<img th:src="@{img/google-safe-browsing.png}" style="max-width: 175px;"></img>
+					</a>
+					
+					<script language="JavaScript" type="text/javascript">
+					TrustLogo("https://www.medicamentosbrasil.com.br/ftp/comodo_secure_seal_113x59_transp.png", "CL1", "none");
+					</script>
+					<a   id="comodoTL"></a>
+					
+				</div>
+				
+				
+				
+				
+				
+			</div> -->
+
+			<div class="col-md-12" style="padding-top: 50px; padding-bottom: 50px;">
+				<div class="copyright">
+					<span>As informações contidas neste site não devem ser usadas para automedicação e não substituem, em hipótese alguma, as orientações dadas pelo profissional da área médica. Ao persistirem os sintomas um médico deverá ser consultado. São medicamentos, seu uso pode trazer riscos a saúde. Procure o médico e o farmacêutico. Leia a bula. 
+Medicamentos sob prescrição necessitam de apresentação de receita médica e só serão dispensados mediante a apresentação da mesma, a qual deverá ser enviada pelo e-mail: receita@medicamentosbrasil.com.br, pelo WhatsApp (18) 99725-5828 ou pelo FAX (18) 3422-0457. Os preços, promoções e condições de pagamento contidos neste site são exclusivos para compras efetuadas pela loja online. - 
+Medicamentos Brasil 2006 - 2017 - Todos os direitos reservados.
+</span><br />
+
+				</div>
+				<div class="copyright">
+					v<span>3.4.3</span>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+</div>
+
+
+	
+ <link rel="stylesheet" href="/bootstrap/css/shop-homepagev1.0.3.css" /> 
+ <link rel="stylesheet" href="/bootstrap/css/shop-itemv1.0.1.css" /> 
+ <link rel="stylesheet" href="/bootstrap/css/navbarfixed.css" /> 
+ <link rel="stylesheet" href="/bootstrap/css/bootstrap-datepicker3.min.css" /> 
+ <link rel="stylesheet" href="/css/lightbox.css" /> 
+ <link rel="stylesheet" type="text/css" href="/css/slickv1.0.0.css" />
+ <link rel="stylesheet" type="text/css" href="/css/slick-theme.css" />
+ <link rel="stylesheet" href="/css/addtohomescreen.css" /> 
+
+<script src="/js/libs/bootstrap-list-filter.srcv1.0.0.min.js"></script>
+<script src="/js/BLC.js"></script>
+<script src="/js/cartOperationsv1.6.20.js"></script>
+<script src="/js/checkoutOperationsv1.6.9.js"></script>
+<script src="/js/heatClinic1.4.js"></script>
+<script src="/js/reviewOperations1.1.js"></script>
+<script src="/bootstrap/js/navbarfixed.min.js"></script>
+<script src="/js/libs/jquery.multizoom.min.js"></script>
+ <script src="/bootstrap/js/bootstrap-datepicker.min.js"></script>
+<script src="/bootstrap/js/bootstrap-datepicker.pt-BR.min.js"></script> 
+<script src="/js/libs/lightbox-2.6.min.js"></script>
+<script src="/js/libs/slick.min.js"></script>			
+<script src="/js/validatorBootstrap.min.js"></script>	
+<script src="/js/libs/jquery.payment.min.js"></script>	
+
+
+<!-- chamada do script na home.html -->
+	 
+<!-- A Div que exibe quando quer fechar o site se encontra no footer com o id de "bio_ep" -->
+
+
+
+
+<!-- Links das iamgens para adicionar a tela inicial como favorito -->
+
+
+
+
+
+
+    
+
+<link rel="apple-touch-icon" href="/cmsstatic/layout/cabecalho.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/cmsstatic/layout/cabecalho.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/cmsstatic/layout/cabecalho.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/cmsstatic/layout/cabecalho.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/cmsstatic/layout/cabecalho.png" />
+<link rel="icon" sizes="192x192" href="/cmsstatic/layout/cabecalho.png" />
+<link rel="icon" sizes="128x128" href="/cmsstatic/layout/cabecalho.png" />  
+
+<script>
+   
+  //<![CDATA[
+ window.mobileAndTabletcheck = function() {
+  var check = false;
+  (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
+  return check;
+}              
+ 
+ 
+	  
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-73958421-1' ]);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+ 
+
+//]]> 
+</script> 
+   
+ 
+  
+  
+
+<!-- Facebook Pixel Code -->
+<script>
+
+//<![CDATA[ 
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1227657827303042'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+
+
+
+
+//]]>
+
+
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1227657827303042&amp;ev=PageView&amp;noscript=1" />
+
+</noscript>
+
+
+
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    
+ 
+
+<script>
+
+	$(function() {
+	
+	$('body').css("font-family",  ' ');
+});
+
+</script>
+
+
+
+
+<div><div id="TRUSTEDCOMPANY_widget_105085"><script async src="https://d3643s33l1rfut.cloudfront.net/js/widget?w=BQYHDBEcXkJWQ1RQRFRSW0FYXUI" ></script></div></div>
+
+
+
