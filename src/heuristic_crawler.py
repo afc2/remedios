@@ -1,12 +1,14 @@
-# -*- coding: utf-8 -*-
+# coding: utf-8
+
 import urllib.robotparser
 import requests
 from bs4 import BeautifulSoup
 from collections import deque
 import heapq
+import codecs
 
 #max_urls should be 1000?
-max_urls = 1000
+max_urls = 120
 
 #receives a robots page and a url and verifies if we're
 #allowed to fetch this url's content
@@ -47,10 +49,10 @@ def heuristic_bfs(root):
                 continue
 
             try:
-                myfile = open(cur.replace('/', '+'), 'w+')
-                myfile.write(str(page.content))
+                myfile = codecs.open('../html/heuristica/'+cur.replace('/', '+'), 'w+', encoding='utf-8')
+                myfile.write(str(page.content, encoding='utf-8'))
                 myfile.close()
-                urls = open("urls-heuristic", "a")
+                urls = open("urls-heuristica", "a")
                 urls.write(str(cur+"\n"))
                 urls.close()
             except:
@@ -60,7 +62,6 @@ def heuristic_bfs(root):
             visited.append(cur)
 
             print("Visitando: "+cur)
-            time.sleep(0.01)
 
             links = []
 
@@ -95,4 +96,4 @@ urls = ["https://www.onofre.com.br",
         "https://www.saredrogarias.com.br"]
 
 for site in urls:
-    heuristic_bfs(site) 
+    heuristic_bfs(site)

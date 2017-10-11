@@ -1,12 +1,13 @@
-# -*- coding: utf-8 -*-
-import robotparser
+# coding: utf-8
+
+import urllib.robotparser
 import requests
 from bs4 import BeautifulSoup
 from collections import deque
-import time
+import codecs
 
 #max_urls should be 1000?
-max_urls = 1000
+max_urls = 120
 
 #receives a robots page and a url and verifies if we're
 #allowed to fetch this url's content
@@ -46,8 +47,8 @@ def generic_bfs(root):
                 continue
 
             try:
-                myfile = open(cur.replace('/', '+'), 'w+')
-                myfile.write(page.content)
+                myfile = codecs.open('../html/semHeuristica/'+cur.replace('/', '+'), 'w+', encoding='utf-8')
+                myfile.write(str(page.content, encoding='utf-8'))
                 myfile.close()
                 urls = open("urls", "a")
                 urls.write(cur+"\n")
@@ -58,8 +59,9 @@ def generic_bfs(root):
             soup = BeautifulSoup(page.content, 'html.parser')
             visited.append(cur)
 
-            print "visiting: "+cur
+            print "Visitando: "+cur
             time.sleep(0.01)
+            
             links = []
 
             for link in soup.find_all('a', href=True):
