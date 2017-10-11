@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# coding: utf-8
+
 import os
 import codecs
 import numpy
@@ -14,16 +15,21 @@ from sklearn.metrics import confusion_matrix, f1_score
 NEWLINE = '\n'
 
 # classes
-DRUG = 'drug'
-OTHER = 'other'
+REM = 'rem'
+OUTROS = 'outros'
 
-VOCABULARY = ['adicionar', 'informaçoes', 'informações', 'detalhes', 'descriçao', 'descrição', 'contraindicaçoes', 'contraindicações']
+VOCABULARY = ['adicionar', 'informaçoes', 'informações', 
+              'detalhes', 'descriçao', 'descrição',  
+              'contraindicaçoes', 'contraindicações' , 
+		      'inicial', 'home', 'ordenar', 'pagina', 'página',
+		      'abrace']
 
 # classificar arquivos manualmente em 1 pasta de 
 # pagina de medicamento e 1 pasta de nao-medicamento
 
 # pastas com os arquivos separados manualmente
-DIRS = [('../text/drug/', DRUG), ('../text/other/', OTHER)]
+DIRS_NH = [('../text/semHeuristica/rem/', REM), ('../text/semHeuristica/outros/', OUTROS)]
+DIRS_H = [('../text/heuristica/rem/', REM), ('../text/heuristica/outros/', OUTROS)]
 
 # leitura de arquivos de uma pasta
 def read_files(path):
@@ -50,55 +56,62 @@ def generate_dataframe(path, label):
 	df = DataFrame(rows, index=index)
 	return df
 
-# leitura de todos os arquivos
-data = DataFrame({'text': [], 'class': []})
-for path, label in DIRS:
-	data = data.append(generate_dataframe(path, label))
+def build_classifier(dirs):
+    # leitura de todos os arquivos
+    data = DataFrame({'text': [], 'class': []})
+    for path, label in dirs:
+	    data = data.append(generate_dataframe(path, label))
 
-# embaralhando os documentos
-data = data.reindex(numpy.random.permutation(data.index))
+    # embaralhando os documentos
+    data = data.reindex(numpy.random.permutation(data.index))
 
-# print (len(data['text'].values))
-# data['text'].values -> precisa ter no minimo 1 -> por isso que está dando erro -> 21/09 - 14:20
-# extraindo features e classificando com naive bayes
-pipeline = Pipeline([ ('vectorizer', CountVectorizer(vocabulary=VOCABULARY)) , ('classifier', MultinomialNB()) ])
-pipeline.fit(data['text'].values, data['class'].values)
+    # extraindo features e classificando com naive bayes
+    pipeline = Pipeline([ ('vectorizer', CountVectorizer(vocabulary=VOCABULARY)) , ('classifier', MultinomialNB()) ])
+    pipeline.fit(data['text'].values, data['class'].values)
+
+    # validacao cruzada
+    k_fold = KFold(n=len(data), n_folds=8)
+    scores = []
+    confusion = numpy.array([[0, 0], [0, 0]])
+    for train_indexes, test_indexes in k_fold:
+        train_text = data.iloc[train_indexes]['text'].values
+        train_y = data.iloc[train_indexes]['class'].values
+
+        test_text = data.iloc[test_indexes]['text'].values
+        test_y = data.iloc[test_indexes]['class'].values
+
+        pipeline.fit(train_text, train_y)
+        predictions = pipeline.predict(test_text)
+
+        confusion += confusion_matrix(test_y, predictions)
+        score = f1_score(test_y, predictions, pos_label=REM)
+        scores.append(score)
+
+    Accuracy = str((confusion[0][0]+confusion[1][1])/confusion.sum())
+    Precision = str(confusion[0][0]/confusion[:][0].sum())
+    Recall = str(confusion[0][0]/confusion[0].sum())
+    print('Documentos classificados: '+ str(len(data)))
+    print('Accuracy: ', Accuracy)
+    print('Precision: ', Precision)
+    print('Recall: ', Recall)
+    print('F1-Score: ', str(sum(scores)/len(scores)))
+    print('Confusion matrix:')
+    print(confusion)
+
+    # salvando o classificador
+    f_path = '../Classifier'    
+    if dirs==DIRS_NH:
+        f_path = '../Classifier_NH.obj'
+    elif dirs == DIRS_H:
+        f_path = '../Classifier_H.obj'
+    f = open(f_path, "wb")
+    pickle.dump(pipeline, f)
+    f.close()
+
+print('Resultados da Classificação Não - Heuristica')
+build_classifier(DIRS_NH)
+
+print('Resultados da Classificação Heuristica')
+build_classifier(DIRS_H)
 
 
-# validacao
-k_fold = KFold(n=len(data), n_folds=8)
-scores = []
-confusion = numpy.array([[0, 0], [0, 0]])
-for train_indexes, test_indexes in k_fold:
-    train_text = data.iloc[train_indexes]['text'].values
-    train_y = data.iloc[train_indexes]['class'].values
-
-    test_text = data.iloc[test_indexes]['text'].values
-    test_y = data.iloc[test_indexes]['class'].values
-
-    pipeline.fit(train_text, train_y)
-    predictions = pipeline.predict(test_text)
-
-    confusion += confusion_matrix(test_y, predictions)
-    score = f1_score(test_y, predictions, pos_label=DRUG)
-    scores.append(score)
-
-print('Documents classified: '+ str(len(data)))
-print('Accuracy: ', str((confusion[0][0]+confusion[1][1])/confusion.sum()))
-print('Precision: ', str(confusion[0][0]/confusion[:][0].sum()))
-print('Recall: ', str(confusion[0][0]/confusion[0].sum()))
-print('F1-Score: ', str(sum(scores)/len(scores)))
-print('Confusion matrix:')
-print(confusion)
-
-# salvando o classificador
-f = open("../Classifier.obj", "wb")
-pickle.dump(pipeline, f)
-f.close()
-
-#TODO hoje integrar
-
-# melhorias = validacao;
-#             usar outros classif;
-#             eliminar stopwords em pt-BR;
-#             ajustar parametros dos classif...
