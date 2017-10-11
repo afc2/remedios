@@ -1,0 +1,619 @@
+
+
+JavaScript seems to be disabled in your browser.  
+Você precisa habilitar o Javascript no seu navegador para aproveitar as
+funcionalidades do site.
+
+Início
+
+       Minha Conta
+       Meus Favoritos
+       Carrinho
+       Fechar Pedido
+       Entrar
+
+       Product Sitemap
+       Category Sitemap
+       Busca Avançada
+       Pedidos e Devoluções
+
+
+
+
+
+       Minha Conta
+       Meus Favoritos
+       Carrinho
+       Fechar Pedido
+       Entrar
+
+Seja Bem Vindo
+
++35 anos de tradição
+
+Enviamos para todo o Brasil
+
+ 11 2744-2040
+
+ 11 99642-5721
+
+Farmacia Cristo Rei
+
+0
+
+Nenhum produto no carrinho.
+
+0
+
+Buscar: Procurar
+
+Categorias
+
+       Medicamentos
+         Anticoncepcional
+         Azia e Má Digestão
+         Dor e Febre
+         Gripe e resfriado
+         Genéricos
+         Cristália 
+         Ache 
+         TheraSkin
+         Galderma
+         Alcon 
+         Allergan
+         Libbs 
+         Takeda 
+         Aspen 
+         Medicamento Similares 
+         Medley 
+         AstraZeneca
+         Supera
+       Saúde
+         Calvície
+         Colágeno 
+         Vitaminas e Suplementos
+         Saúde da Mulher
+         Saúde óssea
+         Saúde do Homem
+         Disfunção Erétil
+         Hipertensão 
+         Inflamação
+         Colesterol e Triglicerídeos
+         Alergia
+         Alimentos e Bebidas
+         Dentadura
+         Fitoterápicos
+         Homeopáticos
+         Leites e Fórmulas Especiais
+         Mamãe e Bebê
+         Meias de Compressão
+         Preservativos e Lubrificantes
+         Suplementos e Vitaminas
+       Dermocosméticos
+         Mantecorp
+         Cicatricure
+         La Roche Posay
+         Skinceuticals
+         Imecap
+         Neutrogena
+         Vichy 
+         Isdin
+         Roc
+         Eau Thermale Avène
+         Libbs
+         Profuse 
+         Germed-Derms
+         Biolab
+         TheraSkin
+         Galderma
+         Sebamed 
+         L'oreal Paris 
+       Perfumaria
+         Acessórios
+         Acessórios Infantis
+         Banho
+         Barba
+         Depilação
+         Fraldas infantis
+         Gestantes
+         Higiene Bucal
+         Higiene Íntima
+         Maquiagem e Beleza
+         Mamãe e Bebê
+         Perfumes
+           Femininos 
+           Masculino
+         Tinturas
+         Hidratantes
+         Pele/Cicatriz 
+         Antitranspirante e Desodorante 
+         Cabelo 
+         Repelentes
+         Proteção Solar 
+         Shampoo e Condicionador
+         Tonalizante 
+         Talcos 
+       Ortopédicos
+         Bolsas e Cintas
+         Coluna
+         Joelho
+         Ombro, Braço e Cotovelo
+         Pés
+         Punhos Mãos e Dedos
+         Quadril e Coxa
+         Tornozelos
+         Hidrolight 
+         Pernas 
+       Aparelhos
+         Aparelho de Glicemia
+         Aparelho de Pressão
+         Balança
+         Barbeadores
+         Chapinhas e Modeladores 
+         Inalador
+         Umidificador de Ar
+         Termômetro
+         Teste de Gravidez 
+         Secador de Cabelo
+         Acessórios para Inaladores 
+         Para Homens 
+         Para Mulheres 
+         Taiff 
+         Mãos e Pés 
+         Massageador e Esfoliador
+         Accu Check
+         G-Tech
+         Lancetas e Lancetadores
+         Tiras para Teste
+         Acessórios
+         Aparelhos de Glicemia
+       Super Ofertas
+         Promoções Especiais
+
+       Medicamentos
+
+           Anticoncepcional
+
+           Azia e Má Digestão
+
+           Dor e Febre
+
+           Gripe e resfriado
+
+           Genéricos
+
+           Cristália 
+
+           Ache 
+
+           TheraSkin
+
+           Galderma
+
+           Alcon 
+
+           Allergan
+
+           Libbs 
+
+           Takeda 
+
+           Aspen 
+
+           Medicamento Similares 
+
+           Medley 
+
+           AstraZeneca
+
+           Supera
+
+       Saúde
+
+           Calvície
+
+           Colágeno 
+
+           Vitaminas e Suplementos
+
+           Saúde da Mulher
+
+           Saúde óssea
+
+           Saúde do Homem
+
+           Disfunção Erétil
+
+           Hipertensão 
+
+           Inflamação
+
+           Colesterol e Triglicerídeos
+
+           Alergia
+
+           Alimentos e Bebidas
+
+           Dentadura
+
+           Fitoterápicos
+
+           Homeopáticos
+
+           Leites e Fórmulas Especiais
+
+           Mamãe e Bebê
+
+           Meias de Compressão
+
+           Preservativos e Lubrificantes
+
+           Suplementos e Vitaminas
+
+       Dermocosméticos
+
+           Mantecorp
+
+           Cicatricure
+
+           La Roche Posay
+
+           Skinceuticals
+
+           Imecap
+
+           Neutrogena
+
+           Vichy 
+
+           Isdin
+
+           Roc
+
+           Eau Thermale Avène
+
+           Libbs
+
+           Profuse 
+
+           Germed-Derms
+
+           Biolab
+
+           TheraSkin
+
+           Galderma
+
+           Sebamed 
+
+           L'oreal Paris 
+
+       Perfumaria
+
+           Acessórios
+
+           Acessórios Infantis
+
+           Banho
+
+           Barba
+
+           Depilação
+
+           Fraldas infantis
+
+           Gestantes
+
+           Higiene Bucal
+
+           Higiene Íntima
+
+           Maquiagem e Beleza
+
+           Mamãe e Bebê
+
+           Perfumes
+
+               Femininos 
+
+               Masculino
+
+           Tinturas
+
+           Hidratantes
+
+           Pele/Cicatriz 
+
+           Antitranspirante e Desodorante 
+
+           Cabelo 
+
+           Repelentes
+
+           Proteção Solar 
+
+           Shampoo e Condicionador
+
+           Tonalizante 
+
+           Talcos 
+
+       Ortopédicos
+
+           Bolsas e Cintas
+
+           Coluna
+
+           Joelho
+
+           Ombro, Braço e Cotovelo
+
+           Pés
+
+           Punhos Mãos e Dedos
+
+           Quadril e Coxa
+
+           Tornozelos
+
+           Hidrolight 
+
+           Pernas 
+
+       Aparelhos
+
+           Aparelho de Glicemia
+
+           Aparelho de Pressão
+
+           Balança
+
+           Barbeadores
+
+           Chapinhas e Modeladores 
+
+           Inalador
+
+           Umidificador de Ar
+
+           Termômetro
+
+           Teste de Gravidez 
+
+           Secador de Cabelo
+
+           Acessórios para Inaladores 
+
+           Para Homens 
+
+           Para Mulheres 
+
+           Taiff 
+
+           Mãos e Pés 
+
+           Massageador e Esfoliador
+
+           Accu Check
+
+           G-Tech
+
+           Lancetas e Lancetadores
+
+           Tiras para Teste
+
+           Acessórios
+
+           Aparelhos de Glicemia
+
+       Super Ofertas
+
+           Promoções Especiais
+
+              Início >
+       Medicamentos >
+       Libbs 
+
+ Libbs
+
+Itens 1 para 12 de 26 total
+
+Exibir 12  24  36
+
+Página:
+      1. 1
+      2. 2
+      3. 3
+      4. Visualizar como: Tabela  Lista 
+
+Ordem Relevância  Nome  Preço  Google Shopping
+
+       R$38,49
+
+  Naprix A 5mg+5mg com 30 comprimidos LIBBS
+
+É indicado para o tratamento de hipertensao arterial aumento da press&...
+
+Comprar
+
+       R$14,99
+
+  Ancoron 100mg com 30 comprimidos LIBBS
+
+Ancoron e indicado para os seguintes casos: disturbios graves do ritmo ...
+
+Comprar
+
+       R$38,99
+
+  Vatis 150mg com 60 comprimidos LIBBS
+
+Vatis cloridrato de propafenona esta indicado para o tratamento das
+altera&amp;c...;
+
+Comprar
+
+       R$68,99
+
+  Stanglit 30mg com 30 comprimidos LIBBS
+
+Stanglit® contem uma substancia chamada cloridrato de pioglitazona. ...
+
+Comprar
+
+       R$39,99
+
+  Naprix 5mg com 30 comprimidos LIBBS
+
+É indicado para o tratamento de hipertensao arterial aumento da press&...
+
+Comprar
+
+       R$37,10
+
+  Naprix D 5mg+12,5mg com 30 comprimidos LIBBS
+
+É indicado para o tratamento de hipertensao arterial aumento da press&...
+
+Comprar
+
+       R$87,73
+
+  Diminut gestodeno 75mg+etinilestradiol 20mg 63 C...
+
+Diminut® e indicado para contracepçao oral.
+
+Comprar
+
+       R$34,99
+
+  Natifa estradiol 1mg 28 Comprimidos LIBBS
+
+NATIFA e indicado como TH para o tratamento dos sintomasda deficiencia e...
+
+Consulte-nos
+
+       R$48,50
+
+  Natifa Pro estradiol 1mg+acetato de noretisterona...
+
+Para aliviar os sintomas desagradaveis, como ondas de calor, suor noturno e
+se...
+
+Comprar
+
+       R$33,10
+
+  Iumi com 24 comprimidos LIBBS
+
+  Iumi e uma pilula anticoncepcional indicada para prevenir a gra...
+
+Comprar
+
+       R$47,90
+
+  Umidita Infantil Loção 120ML LIBBS
+
+Umiditá Loção Hidratante infantil especialmente desenvolvido para pessoas com
+pele se...
+
+Consulte-nos
+
+       R$61,99
+
+  Umiditá Loção Hidratante 120ML LIBBS
+
+Umidita  Loçao Hidratante atua especialmente nas are...
+
+Comprar
+
+Itens 1 para 12 de 26 total
+
+Exibir 12  24  36
+
+Página:
+      1. 1
+      2. 2
+      3. 3
+      4. Visualizar como: Tabela  Lista 
+
+Ordem Relevância  Nome  Preço  Google Shopping
+
+x
+
+
+
+Preço:
+
+Preço Atual:
+
+Comprar
+
+Our price is lower than the manufacturer's "minimum advertised price." As a
+result, we cannot show you the price in catalog or the product page.  
+  
+You have no obligation to purchase the product once you know the price. You
+can simply remove the item from your cart.
+
+Our price is lower than the manufacturer's "minimum advertised price." As a
+result, we cannot show you the price in catalog or the product page.  
+  
+You have no obligation to purchase the product once you know the price. You
+can simply remove the item from your cart.
+
+Carrinho
+
+Nenhum produto no carrinho.
+
+Newsletter
+
+Assine Nossa Newsletter:
+
+Go
+
+ Redes Sociais
+
+              Top
+
+ Informações
+
+       Mapa do Site
+       Termos de Pesquisa
+       Busca Avançada
+       Pedidos e Devoluções
+       Fale Conosco
+
+ Dicas
+
+       Trocas &amp; Devoluçao
+       Politica de Entrega
+       Quem Somos
+       Formas de Pagamento
+
+ Minha Conta
+
+       Login
+       Carrinho
+       Meus Favoritos
+       Rastrear meu pedidor
+       Ajuda
+
+ Contato
+
+DROGARIA E PERFUMARIA CRISTO REI | CNPJ 43.840.040/0001-54 | I.E.
+110.318.078.113 | RUA PALMEIRA LACA, 183 JARDIM ELIANE SÃO PAULO/SP | CEP
+03577-090 | Horario de Atendimento: De Segunda a Sabado das 8 as 20h e aos
+Domingos horario das 8 as 14h | Central de Atendimento ao Cliente: 2744-2040 |
+Farmaceutico responsavel: Eraldo Galvao CRF-SP 22.889. Autorizaçao de
+Funcionamento: 25351.209127/2002-11 - Autorizaçao/MS: 0.20419.4 - CMVS:
+355030801477-001234-1-2
+
+ Selos de Segurança
+
+ Parcelamos em 3x sem juros  
+
+
+
+C Farmácia Cristo Rei. Todos os direitos reservados. Criado por  Alemão
+Agência Digital
+
