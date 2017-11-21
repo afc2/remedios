@@ -2,6 +2,7 @@ import json
 import re
 from collections import Counter
 
+
 def hasNumbers(inputString):
     return any(char.isdigit() for char in inputString)
 
