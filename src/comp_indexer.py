@@ -43,81 +43,59 @@ with open('extraction/data.js') as json_data:
             price = '[301+]'
 
         if (price in hprice):
-            hprice[price].append([cur_id, 1, [0]])
+            hprice[price].append(cur_id)
         else:
             hprice[price] = []
-            hprice[price].append([cur_id, 1, [0]])
+            hprice[price].append(cur_id)
 
         #indexing products:
         produto = obj['produto']
         pos = 0
-        freq = Counter()
-        hpos = dict()
         for word in produto.split(' '):
             if (hasNumbers(word)): 
                 continue
             word = fixWord(word)
             if (len(word) > 5):
                 word = word.lower()
-                freq[word] += 1
-                if (word in hpos):
-                    # hproduto[word].append([cur_id, freq[word], pos])
-                    hpos[word].append(pos)
+                if (word in hproduto):
+                    fst = hproduto[word][0]
+                    hproduto[word].append(cur_id-fst)
                 else:
-                    hpos[word] = []
-                    hpos[word].append(pos)
-                    #hproduto[word] = []
-                    #hproduto[word].append([cur_id, 1, pos])
+                    hproduto[word] = []
+                    hproduto[word].append(cur_id)
             pos += 1
-        
-        for item in hpos.items():
-            word = list(item)[0]
-            poss = list(item)[1]
-            if (word not in hproduto):
-                hproduto[word] = []
-            hproduto[word].append([cur_id, freq[word], poss])                
 
         #indexing sites:
         site = obj['site']
         if (site in hsite):
-            hsite[site].append([cur_id, 1, [0]])
+            hsite[site].append(cur_id)
         else:
             hsite[site] = []
-            hsite[site].append([cur_id, 1, [0]])
+            hsite[site].append(cur_id)
         
         #indexing pharmacies:
         farmacia = obj['farmacia']
         if (farmacia in hfarmacia):
-            hfarmacia[farmacia].append([cur_id, 1, [0]])
+            hfarmacia[farmacia].append(cur_id)
         else:
             hfarmacia[farmacia] = []
-            hfarmacia[farmacia].append([cur_id, 1, [0]])
+            hfarmacia[farmacia].append(cur_id)
 
         #indexing summaries:
         sumario = obj['sumario']
         pos = 0
-        freq = Counter()
-        hpos = dict()
         for word in sumario.split(' '):
             if (hasNumbers(word)): 
                 continue
-            word = fixWord(word)
             if (len(word) > 5):
                 word = word.lower()
-                freq[word] += 1
-                if (word in hpos):
-                    hpos[word].append(pos)
+                if (word in hsumario):
+                    fst = hsumario[word][0]
+                    hsumario[word].append(cur_id-fst)
                 else:
-                    hpos[word] = []
-                    hpos[word].append(pos)
+                    hsumario[word] = []
+                    hsumario[word].append(cur_id)
             pos += 1
-        
-        for item in hpos.items():
-            word = list(item)[0]
-            poss = list(item)[1]
-            if (word not in hsumario):
-                hsumario[word] = []
-            hsumario[word].append([cur_id, freq[word], poss])
         
         cur_id = cur_id + 1
 
@@ -144,4 +122,5 @@ with open('extraction/data.js') as json_data:
     for item in sorted(hsumario.items()):
         print ("sumario." + list(item)[0]),
         print (': '),
-print (list(item)[1])
+        print (list(item)[1])
+
