@@ -14,7 +14,7 @@ def fixWord(inputString):
 
 with open('extraction/data.js') as json_data:
     objs = json.load(json_data)
-    cur_id = 1
+    cur_id = 0
 
     hprice = dict()
     hproduto = dict()
@@ -55,6 +55,7 @@ with open('extraction/data.js') as json_data:
         hpos = dict()
         for word in produto.split(' '):
             if (hasNumbers(word)): 
+                pos += 1
                 continue
             word = fixWord(word)
             if (len(word) > 5):
@@ -100,6 +101,7 @@ with open('extraction/data.js') as json_data:
         hpos = dict()
         for word in sumario.split(' '):
             if (hasNumbers(word)): 
+                pos += 1
                 continue
             word = fixWord(word)
             if (len(word) > 5):
